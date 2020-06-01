@@ -19,4 +19,7 @@ A curated list of resources for the processing of Slovak language.
 | [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054) | sentiment | Twitter |
 | [fastText word embeddings - Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html) | word embeddings | Common Crawl |
 | [fastText word embeddings - Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html) | word embeddings | Wikipedia |
+| [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0) | parallel SK-CZ | |
+| [English-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A) | parallel SK-EN | |
+
 
