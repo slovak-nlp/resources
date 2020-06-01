@@ -9,6 +9,7 @@ A curated list of resources for the processing of Slovak language.
 | [NLP-Cube](https://github.com/adobe/NLP-Cube) | tokenization, segmentation, UPOS, XPOS (SNK), UD, lemmatization |
 | [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk) | tokenization, stemming |
 | [Slovak lexer](https://github.com/hladek/slovak-lexer) | tokenization, segmentation |
+| [dl4dp](https://github.com/peterbednar/dl4dp) | UPOS, UD |
 
 ### Corpora, datasets, vocabularies
 
