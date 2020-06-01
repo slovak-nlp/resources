@@ -3,6 +3,12 @@ A curated list of resources for the processing of Slovak language.
 
 ### Tools
 
+| Tool | Description |
+|------|-------------|
+| [Stanza](https://github.com/stanfordnlp/stanza) | tokenization, segmentation, UPOS, XPOS (SNK), UD, lemmatization |
+| [NLP-Cube](https://github.com/adobe/NLP-Cube) | tokenization, segmentation, UPOS, XPOS (SNK), UD, lemmatization |
+| [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk) | tokenization, ? |
+
 ### Corpora, datasets, vocabularies
 
 | Data | Description |
