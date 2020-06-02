@@ -48,7 +48,7 @@ A curated list of resources for the processing of Slovak language.
 
 ### Web
 
-#### [CommonCrawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/)
+#### [Common Crawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/)
 
 #### [SkTenTen](https://www.sketchengine.eu/sktenten-slovak-corpus/)
 
