@@ -25,6 +25,7 @@ A curated list of resources for the processing of Slovak language.
 
 * tokenization, segmentation
 * implementation in C++
+* license: GPL v3.0
 
 #### [dl4dp](https://github.com/peterbednar/dl4dp)
 
