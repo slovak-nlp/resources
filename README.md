@@ -27,8 +27,8 @@ A curated list of resources for the processing of Slovak language.
 #### [dl4dp](https://github.com/peterbednar/dl4dp)
 
 * UPOS, UD
-* implementation in Python/PyTorch, command-line interface
 * models trained on UD
+* implementation in Python/PyTorch, command-line interface
 
 ## Corpora, datasets, vocabularies
 
