@@ -23,5 +23,12 @@ A curated list of resources for the processing of Slovak language.
 | [ELMo word embeddings](https://github.com/HIT-SCIR/ELMoForManyLangs) | word embeddings | |
 | [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0) | parallel SK-CZ | |
 | [English-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A) | parallel SK-EN | |
+| [Multext East](http://nl.ijs.si/ME/) | POS, NER | |
+| [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/) [data](https://drive.google.com/drive/folders/1bkK6ly_awxe9IgAKL16VVvCtjcYcDSw8) | NER | |
+| [Artificial Treebank with Ellipsis](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2616) | POS,UD | |
+| [Aranea](http://ucts.uniba.sk/aranea_about/) | web | |
+| [SkTenTen](https://www.sketchengine.eu/sktenten-slovak-corpus/) | web  automatical POS | |
+| [CommonCrawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/) | web | |   
+| [Oscar](https://traces1.inria.fr/oscar/) | dedeup. Common Crawl | | 
 
 
