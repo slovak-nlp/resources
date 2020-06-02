@@ -101,7 +101,7 @@ A curated list of resources for the processing of Slovak language.
 #### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
 
 * [download data](https://drive.google.com/drive/folders/1bkK6ly_awxe9IgAKL16VVvCtjcYcDSw8)
-* automatically annotated
+* automatic annotation
 * source: Wikipedia
 
 ### Wordnet
