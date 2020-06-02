@@ -1,7 +1,7 @@
 # Resources
 A curated list of resources for the processing of Slovak language.
 
-### Tools
+## Tools
 
 #### [Stanza](https://github.com/stanfordnlp/stanza)
 
@@ -30,7 +30,7 @@ A curated list of resources for the processing of Slovak language.
 * implementation in Python/PyTorch, command-line interface
 * models trained on UD
 
-### Corpora, datasets, vocabularies
+## Corpora, datasets, vocabularies
 
 ### Word embeddings
 
