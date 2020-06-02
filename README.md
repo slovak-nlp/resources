@@ -8,12 +8,14 @@ A curated list of resources for the processing of Slovak language.
 * tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
 * models trained on UD
 * implementation in Python/PyTorch, command-line interface, web server interface
+* license: Apache v2.0
 
 #### [NLP-Cube](https://github.com/adobe/NLP-Cube)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
 * models trained on UD
 * implementation in Python/dyNET, command-line interface, web server interface
+* license: Apache v2.0
 
 #### [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk)
 
@@ -29,6 +31,7 @@ A curated list of resources for the processing of Slovak language.
 * UPOS, UD
 * models trained on UD
 * implementation in Python/PyTorch, command-line interface
+* license: MIT
 
 ## Corpora, datasets, vocabularies
 
@@ -71,13 +74,13 @@ A curated list of resources for the processing of Slovak language.
 
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
 * manual annotation
-* format: UD
+* format: conllu
 * source: SNK
 
 #### [Artificial Treebank with Ellipsis](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2616)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
-* format: UD
+* format: conllu
 * source: Slovak UD, SNK
 
 #### [Morphological vocabulary](https://korpus.sk/morphology_database.html)
