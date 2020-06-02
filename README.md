@@ -3,13 +3,33 @@ A curated list of resources for the processing of Slovak language.
 
 ### Tools
 
-| Tool | Description |
-|------|-------------|
-| [Stanza](https://github.com/stanfordnlp/stanza) | tokenization, segmentation, UPOS, XPOS (SNK), UD, lemmatization |
-| [NLP-Cube](https://github.com/adobe/NLP-Cube) | tokenization, segmentation, UPOS, XPOS (SNK), UD, lemmatization |
-| [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk) | tokenization, stemming |
-| [Slovak lexer](https://github.com/hladek/slovak-lexer) | tokenization, segmentation |
-| [dl4dp](https://github.com/peterbednar/dl4dp) | UPOS, UD |
+#### [Stanza](https://github.com/stanfordnlp/stanza)
+
+* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
+* models trained on UD
+* implementation in Python/PyTorch, command-line interface, web server interface
+
+#### [NLP-Cube](https://github.com/adobe/NLP-Cube)
+
+* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
+* models trained on UD
+* implementation in Python/dyNET, command-line interface, web server interface
+
+### [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk)
+
+* tokenization, stemming
+
+### [Slovak lexer](https://github.com/hladek/slovak-lexer)
+
+* tokenization, segmentation
+* implementation in C++
+
+### [dl4dp](https://github.com/peterbednar/dl4dp)
+
+* UPOS, UD
+* implementation in Python/PyTorch, command-line interface
+* models trained on UD
+
 
 ### Corpora, datasets, vocabularies
 
