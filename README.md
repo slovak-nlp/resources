@@ -36,6 +36,8 @@ A curated list of resources for the processing of Slovak language.
 
 #### [ELMo word embeddings](https://github.com/HIT-SCIR/ELMoForManyLangs)
 
+* source: Wikipedia, Common Crawl
+
 #### [fastText word embeddings - Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html)
 
 * source: Common Crawl
