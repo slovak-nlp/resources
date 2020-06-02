@@ -34,7 +34,7 @@ A curated list of resources for the processing of Slovak language.
 * implementation in Python/PyTorch, command-line interface
 * license: MIT
 
-#### [udpipe](https://ufal.mff.cuni.cz/udpipe)
+#### [UDPipe](https://ufal.mff.cuni.cz/udpipe)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
 * models trained on UD
