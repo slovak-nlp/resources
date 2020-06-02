@@ -52,7 +52,7 @@ A curated list of resources for the processing of Slovak language.
 
 #### [SkTenTen](https://www.sketchengine.eu/sktenten-slovak-corpus/)
 
-* automatic POS 
+* automatic POS (SNK)
 * source: web
 
 #### [Oscar](https://oscar-corpus.com)
@@ -79,6 +79,10 @@ A curated list of resources for the processing of Slovak language.
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
 * format: UD
 * source: Slovak UD, SNK
+
+#### [Morphological vocabulary](https://korpus.sk/morphology_database.html)
+
+* form, lemma, POS (SNK)
 
 ### Parallel
 
