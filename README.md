@@ -62,7 +62,7 @@ A curated list of resources for the processing of Slovak language.
 
 #### [Aranea](http://ucts.uniba.sk/aranea_about/)
 
-* automatic POS (using TreeTagger)
+* automatic POS ([AUT](http://ucts.uniba.sk/aranea_about/aut.html), TreeTagger)
 * source: web
 
 ### Morpho-syntactic
@@ -83,6 +83,7 @@ A curated list of resources for the processing of Slovak language.
 #### [Morphological vocabulary](https://korpus.sk/morphology_database.html)
 
 * form, lemma, POS (SNK)
+* source: SNK
 
 ### Parallel
 
