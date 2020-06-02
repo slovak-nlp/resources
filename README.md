@@ -82,7 +82,13 @@ A curated list of resources for the processing of Slovak language.
 
 #### [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0)
 
+* automatic POS (SNK)
+* source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
+
 #### [English-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A)
+
+* automatic POS (SNK)
+* source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
 
 #### [MULTEXT-East "1984" annotated corpus](https://www.clarin.si/repository/xmlui/handle/11356/1043)
 
