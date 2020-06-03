@@ -49,6 +49,7 @@ A curated list of resources for the processing of Slovak language.
 
 #### [NLP Tools](https://github.com/Ardevop-sk/nlp-tools)
 
+* tokenization, segmentation, lemmatization, POS (OpenNLP, SNK), UD (CoreNLP), NER
 * implementation in Java/DL4J
 * license: GNU AGPLv3
 
