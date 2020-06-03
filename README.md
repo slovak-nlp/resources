@@ -41,6 +41,17 @@ A curated list of resources for the processing of Slovak language.
 * implementation in C++, bindings in Java, Python, Perl, C#, command-line interface, web service interface
 * license: MPL v2.0
 
+#### [NLP4SK](http://arl6.library.sk/nlp4sk/)
+
+* tokenization, stemming, lemmatization, diacritic restoration, POS (SNK), NER
+* web service interface only
+* license: ?
+
+#### [NLP Tools](https://github.com/Ardevop-sk/nlp-tools)
+
+* implementation in Java/DL4J
+* license: GNU AGPLv3
+
 ## Corpora, datasets, vocabularies
 
 ### Word embeddings
