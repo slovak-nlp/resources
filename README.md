@@ -108,6 +108,10 @@ A curated list of resources for the processing of Slovak language.
 * form, lemma, POS (SNK)
 * source: SNK
 
+#### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
+
+* form, lemma, POS (Multext East)
+
 ### Parallel
 
 #### [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0)
