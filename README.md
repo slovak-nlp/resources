@@ -3,7 +3,7 @@ A curated list of resources for the processing of Slovak language.
 
 ## Pages
 
-### [Slovak resources](https://github.com/essential-data/nlp-sk-interesting-links) by Essential Data
+ * [Slovak resources](https://github.com/essential-data/nlp-sk-interesting-links) by Essential Data
 
 ## Tools
 
