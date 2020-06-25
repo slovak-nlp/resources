@@ -134,6 +134,11 @@ A curated list of resources for the processing of Slovak language.
 * Bulgarian, Czech, English, Estonian, Hungarian, Macedonian, Persian, Polish, Romanian, Serbian, Slovak, Slovenian
 * source: "1984" novel
 
+#### [Paracrawl](https://www.paracrawl.eu/)
+
+ * Parallel web Corpus with Slovak Part 
+ * 3.3 mil sentences English-Slovak
+
 ### Sentiment
 
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
