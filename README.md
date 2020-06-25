@@ -73,6 +73,10 @@ A curated list of resources for the processing of Slovak language.
 
 * source: Wikipedia
 
+#### [m-BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
+
+* multilingual BERT, trained on Wikipedia
+
 ### Web
 
 #### [Common Crawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/)
