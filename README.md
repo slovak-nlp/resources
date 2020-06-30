@@ -96,7 +96,7 @@ A curated list of resources for the processing of Slovak language.
 * automatic POS ([AUT](http://ucts.uniba.sk/aranea_about/aut.html), TreeTagger)
 * source: web
 
-#### [HC Corpora](http://corpora.epizy.com/corpora.html)w
+#### [HC Corpora](http://corpora.epizy.com/corpora.html)
 
 * no annotattion
 * twitter part
