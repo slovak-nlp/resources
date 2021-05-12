@@ -127,6 +127,12 @@ A curated list of resources for the processing of Slovak language.
 
 ### Parallel
 
+#### [VoxPopuli](https://github.com/facebookresearch/voxpopuli)
+
+* source: Europarl
+* speech, vectors, language
+
+
 #### [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0)
 
 * automatic POS (SNK)
