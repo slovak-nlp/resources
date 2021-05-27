@@ -57,25 +57,12 @@ A curated list of resources for the processing of Slovak language.
 * implementation in Java/DL4J
 * license: GNU AGPLv3
 
+### [Semä](https://www.juls.savba.sk/semä)
+
+* Web-based  Visualisation of Slovak word vectors
+
 ## Corpora, datasets, vocabularies
 
-### Word embeddings
-
-#### [ELMo word embeddings](https://github.com/HIT-SCIR/ELMoForManyLangs)
-
-* source: Wikipedia, Common Crawl
-
-#### [fastText word embeddings - Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html)
-
-* source: Common Crawl
-
-#### [fastText word embeddings - Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
-
-* source: Wikipedia
-
-#### [m-BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
-
-* multilingual BERT, trained on Wikipedia
 
 ### Web
 
@@ -174,18 +161,36 @@ A curated list of resources for the processing of Slovak language.
 
 ## Models
 
+### Transformers
+
 #### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
 - Transformer models for machine translation
 - Slovak, English, Finish, Swedish, Spanish, French
-
-#### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
-
-- Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
 
 #### [VoxPopuli Slovak model](https://huggingface.co/facebook/wav2vec2-base-10k-voxpopuli-ft-sk)
 
 - VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
 - Facebook's Wav2Vec2 base model pretrained on the 10K unlabeled subset of VoxPopuli corpus and fine-tuned on the transcribed data in sk
 
+### Word embeddings
 
+#### [ELMo word embeddings](https://github.com/HIT-SCIR/ELMoForManyLangs)
+
+* source: Wikipedia, Common Crawl
+
+#### [fastText word embeddings - Common Crawl](https://fasttext.cc/docs/en/crawl-vectors.html)
+
+* source: Common Crawl
+
+#### [fastText word embeddings - Wikipedia](https://fasttext.cc/docs/en/pretrained-vectors.html)
+
+* source: Wikipedia
+
+#### [m-BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
+
+* multilingual BERT, trained on Wikipedia
+
+#### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
+
+- Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
