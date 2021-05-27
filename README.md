@@ -171,3 +171,15 @@ A curated list of resources for the processing of Slovak language.
 ### Wordnet
 
 #### [Slovak Wordnet](https://korpus.sk/WordNet.html)
+
+## Models
+
+### [Hugging Face Translation models](https://huggingface.co/models?filter=sk)
+
+- Transformer models for machine translation
+- Slovak, English, Finish, Swedish, Spanish, French
+
+## [Language Agnostinc BERT model](https://huggingface.co/setu4993/LaBSE)
+
+- Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
+
