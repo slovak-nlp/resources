@@ -174,12 +174,18 @@ A curated list of resources for the processing of Slovak language.
 
 ## Models
 
-### [Hugging Face Translation models](https://huggingface.co/models?filter=sk)
+#### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
 - Transformer models for machine translation
 - Slovak, English, Finish, Swedish, Spanish, French
 
-## [Language Agnostinc BERT model](https://huggingface.co/setu4993/LaBSE)
+#### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
 
 - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
+
+#### [VoxPopuli Slovak model](https://huggingface.co/facebook/wav2vec2-base-10k-voxpopuli-ft-sk)
+
+- VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
+- Facebook's Wav2Vec2 base model pretrained on the 10K unlabeled subset of VoxPopuli corpus and fine-tuned on the transcribed data in sk
+
 
