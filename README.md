@@ -4,8 +4,15 @@ A curated list of resources for the processing of Slovak language.
 ## Pages
 
  * [Slovak resources](https://github.com/essential-data/nlp-sk-interesting-links) by Essential Data
+ * [Slovak speech and language processing ](https://nlp.kemt.fei.tuke.sk) at KEMT FEI TUKE with tools, demos and language resources.
 
 ## Tools
+
+#### [Slovak Hunspell](https://https://github.com/sk-spell/hunspell-sk)
+
+- Spelling Dictionary
+- List of common names, abbreviations, pejoratives and neologisms.
+
 
 #### [Stanza](https://github.com/stanfordnlp/stanza)
 
