@@ -201,3 +201,10 @@ A curated list of resources for the processing of Slovak language.
 #### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
 
 - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
+
+### [Flores](https://github.com/pytorch/fairseq/tree/master/examples/flores101)
+
+- Flores101: Large-Scale Multilingual Machine Translation
+- Baseline pretrained models for small and large tracks of WMT 21 Large-Scale Multilingual Machine Translation competition.
+- Includes Slovak language
+- For fairseq
