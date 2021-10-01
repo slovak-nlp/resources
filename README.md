@@ -13,7 +13,6 @@ A curated list of resources for the processing of Slovak language.
 - Spelling Dictionary
 - List of common names, abbreviations, pejoratives and neologisms.
 
-
 #### [Stanza](https://github.com/stanfordnlp/stanza)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
@@ -67,6 +66,12 @@ A curated list of resources for the processing of Slovak language.
 ### [Semä](https://www.juls.savba.sk/semä)
 
 * Web-based  Visualisation of Slovak word vectors
+
+### [Simplemma](https://pypi.org/project/simplemma/)
+
+* Lemmatization for 25 languages
+* In Python
+* Slovak trained on UDP corpus
 
 ## Corpora, datasets, vocabularies
 
