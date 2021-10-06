@@ -189,6 +189,11 @@ A curated list of resources for the processing of Slovak language.
 
 ### Transformers
 
+#### [SlovakBert](https://github.com/gerulata/slovakbert)
+
+- Slovak RoBERTa base language model
+- trained on web corpus
+
 #### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
 - Transformer models for machine translation
