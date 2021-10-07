@@ -8,7 +8,7 @@ A curated list of resources for the processing of Slovak language.
 
 ## Tools
 
-#### [Slovak Hunspell](https://https://github.com/sk-spell/hunspell-sk)
+#### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
 - Spelling Dictionary
 - List of common names, abbreviations, pejoratives and neologisms.
