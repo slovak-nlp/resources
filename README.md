@@ -194,7 +194,7 @@ A curated list of resources for the processing of Slovak language.
 - Slovak RoBERTa base language model
 - trained on web corpus
 
-#### [sk-bert](https://github.com/Ardevop-sk/sk-bert-model
+#### [sk-bert](https://github.com/Ardevop-sk/sk-bert-model)
 
 - Slovak BERT by Ardevop SK
 
