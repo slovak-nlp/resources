@@ -153,6 +153,12 @@ A curated list of resources for the processing of Slovak language.
  * Parallel web Corpus with Slovak Part 
  * 3.3 mil sentences English-Slovak
 
+#### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix)
+
+ * Unsupervised processing of Wikipedia to obtain parallel corpora
+ * Used LASER embeddings.
+ * 85 different languages, 1620 language pairs, 134M parallel sentences, out of which 34M are aligned with English
+
 ### Sentiment
 
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
