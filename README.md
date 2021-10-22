@@ -230,3 +230,7 @@ A curated list of resources for the processing of Slovak language.
 - Baseline pretrained models for small and large tracks of WMT 21 Large-Scale Multilingual Machine Translation competition.
 - Includes Slovak language
 - For fairseq
+
+### [LASER](https://github.com/facebookresearch/LASER)
+
+- Language agnostic sentence embeddings.
