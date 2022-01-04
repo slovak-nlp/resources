@@ -126,6 +126,12 @@ A curated list of resources for the processing of Slovak language.
 
 ### Parallel
 
+#### [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles-v2018.php)
+
+- 62 languages, 1,782 bitexts
+- Slovak part contains 100 mil. tokens
+
+
 #### [VoxPopuli](https://github.com/facebookresearch/voxpopuli)
 
 * source: Europarl
