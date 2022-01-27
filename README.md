@@ -8,6 +8,7 @@ A curated list of resources for the processing of Slovak language.
 
 ## Tools
 
+
 #### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
 - Spelling Dictionary
@@ -60,7 +61,10 @@ A curated list of resources for the processing of Slovak language.
 #### [NLP Tools](https://github.com/Ardevop-sk/nlp-tools)
 
 * tokenization, segmentation, lemmatization, POS (OpenNLP, SNK), UD (CoreNLP), NER
+* web interface at http://nlp.bednarik.top/
+* Swagger REST API
 * implementation in Java/DL4J
+* source codes available
 * license: GNU AGPLv3
 
 ### [Semä](https://www.juls.savba.sk/semä)
