@@ -124,6 +124,9 @@ A curated list of resources for the processing of Slovak language.
 * form, lemma, POS (SNK)
 * source: SNK
 
+#### [Morphological vocabulary](http://tvaroslovnik.ics.upjs.sk)
+* form, lemma, POS
+
 #### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
 
 * form, lemma, POS (Multext East)
