@@ -177,6 +177,11 @@ A curated list of resources for the processing of Slovak language.
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
 
 * source: Twitter
+* 3 categories - positive, negative, neutral
+
+#### [SentiGrade](https://sentigrade.fiit.stuba.sk/data)
+
+* Dataset contains totally 1 588 comments in Slovak language from various Facebook pages. The texts are annotated by 5 categories.
 
 ### NER
 
