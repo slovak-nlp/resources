@@ -191,6 +191,13 @@ A curated list of resources for the processing of Slovak language.
 * automatic annotation
 * source: Wikipedia
 
+### Spelling
+
+#### [CHIBI](https://www.juls.savba.sk/errcorp.html)
+
+* corpus of spelling errors created from edits in Wikipedia
+* spelling errors are sorted into 5 categories,
+
 ### Wordnet
 
 #### [Slovak Wordnet](https://korpus.sk/WordNet.html)
