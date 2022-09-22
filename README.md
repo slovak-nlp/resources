@@ -204,6 +204,14 @@ A curated list of resources for the processing of Slovak language.
 
 ## Models
 
+### [Slovak Spacy Model](https://github.com/hladek/spacy-skmodel)
+
+- Contains Floret Word Vectors.
+- Tagger module uses Slovak National Corpus Tagset.
+- Morphological analyzer uses Universal dependencies tagset and is trained on Slovak dependency treebank.
+- Lemmatizer is trained on Slovak dependency treebank.
+- Named entity recognizer is trained separately on WikiAnn database.
+
 ### Word embeddings
 
 #### [ELMo word embeddings](https://github.com/HIT-SCIR/ELMoForManyLangs)
