@@ -172,6 +172,14 @@ A curated list of resources for the processing of Slovak language.
  * Used LASER embeddings.
  * 85 different languages, 1620 language pairs, 134M parallel sentences, out of which 34M are aligned with English
 
+### Semantic textual similarity
+
+#### [STSB-sk](https://huggingface.co/datasets/stsb_multi_mt)
+
+- Machine translated by OPUS-en-sk model
+- Sentence similarity dataset contains two sentences with a floating-point number between 0 and 5 as a target, where the highest number means higher similarity. The dataset contains train: 5 749, validation: 1 500 and test: 1 379 examples.
+- Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
+
 ### Sentiment
 
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
@@ -183,7 +191,19 @@ A curated list of resources for the processing of Slovak language.
 
 * Dataset contains totally 1 588 comments in Slovak language from various Facebook pages. The texts are annotated by 5 categories.
 
+#### [STS2-sk](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews)
+
+- Machine translated
+- Sentiment analysis dataset, binary classification task: positive sentiment, negative sentiment.  It includes reviews from 7 categories with positive, neutral and negative sentiment labels. 
+- [Source](Slovakbert auxiliary repository. https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) BY Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik. , 2021
+- Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
+
 ### NER
+
+### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
+
+ translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
+
 
 #### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
 
@@ -237,6 +257,9 @@ A curated list of resources for the processing of Slovak language.
 
 - Slovak BERT by Ardevop SK
 
+#### [ApoTro/slovak-t5-small](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
+
+T5 small, trained on OSCAR dataset.
 
 
 #### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
