@@ -5,6 +5,7 @@ A curated list of resources for the processing of Slovak language.
 
  * [Slovak resources](https://github.com/essential-data/nlp-sk-interesting-links) by Essential Data
  * [Slovak speech and language processing ](https://nlp.kemt.fei.tuke.sk) at KEMT FEI TUKE with tools, demos and language resources.
+ * [Slovak National Corpus](https://korpus.sk/)
 
 ## Tools
 
