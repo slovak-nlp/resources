@@ -182,6 +182,12 @@ A curated list of resources for the processing of Slovak language.
 
 ### Sentiment
 
+
+#### [Slovak_sentiment](https://huggingface.co/datasets/sepidmnorozy/Slovak_sentiment)
+
+- Unknown/undocumented source
+- positive/negative
+
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
 
 * source: Twitter
