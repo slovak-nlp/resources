@@ -174,7 +174,7 @@ A curated list of resources for the processing of Slovak language.
 
 ### Semantic textual similarity
 
-#### [STSB-sk](https://huggingface.co/datasets/stsb_multi_mt)
+#### [STSB-sk](https://huggingface.co/datasets/crabz/stsb-sk/tree/main)
 
 - Machine translated by OPUS-en-sk model
 - Sentence similarity dataset contains two sentences with a floating-point number between 0 and 5 as a target, where the highest number means higher similarity. The dataset contains train: 5 749, validation: 1 500 and test: 1 379 examples.
