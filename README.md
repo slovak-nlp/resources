@@ -107,12 +107,30 @@ A curated list of resources for the processing of Slovak language.
 
 ### Morpho-syntactic
 
-#### [Slovak Universal Dependencies](https://github.com/UniversalDependencies/UD_Slovak-SNK)
+#### [Slovak Dependency Treebank](https://github.com/UniversalDependencies/UD_Slovak-SNK)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
 * manual annotation
-* format: conllu
+* format: conllu, PDT tagset
 * source: SNK
+
+Reference:
+
+- Gajdošová, Katarína; Šimková, Mária and et al., 2016,  Slovak Dependency Treebank, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-1822.
+
+#### [Slovak Universal Dependencies](https://github.com/UniversalDependencies/UD_Slovak-SNK)
+
+A conversion of the SLovak Dependency Treebank into Universal Dependency tagset. 
+
+* tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
+* manual annotation
+* format: conllu, UD tagset
+* source: SNK
+
+Reference:
+
+- Zeman, Daniel. (2017). Slovak Dependency Treebank in Universal Dependencies. Journal of Linguistics/Jazykovedný casopis. 68. 10.1515/jazcas-2017-0048. 
+
 
 #### [Artificial Treebank with Ellipsis](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2616)
 
