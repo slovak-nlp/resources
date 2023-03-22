@@ -118,8 +118,7 @@ Reference:
 
 - Gajdošová, Katarína; Šimková, Mária and et al., 2016,  Slovak Dependency Treebank, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-1822.
 
-#### [Slovak Universal Dependencies](https://universaldependencies.org/treebanks/sk_snk/index.html
-)
+#### [Slovak Universal Dependencies](https://universaldependencies.org/treebanks/sk_snk/index.html)
 
 A conversion of the Slovak Dependency Treebank into Universal Dependency tagset. 
 
@@ -228,7 +227,7 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 - Machine translated
 - Sentiment analysis dataset, binary classification task: positive sentiment, negative sentiment.  It includes reviews from 7 categories with positive, neutral and negative sentiment labels. 
-- [Source](Slovakbert auxiliary repository. https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) BY Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik. , 2021
+- Source: [Slovakbert auxiliary repository](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) BY Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik. , 2021
 - Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
 
 ### Fact Checking
