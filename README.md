@@ -146,6 +146,7 @@ Reference:
 * source: SNK
 
 #### [Morphological vocabulary](http://tvaroslovnik.ics.upjs.sk)
+
 * form, lemma, POS
 
 #### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
@@ -181,6 +182,11 @@ Reference:
 * sentence aligned, POS
 * Bulgarian, Czech, English, Estonian, Hungarian, Macedonian, Persian, Polish, Romanian, Serbian, Slovak, Slovenian
 * source: "1984" novel
+
+Reference:
+
+Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042,   http://hdl.handle.net/11356/1043.
+
 
 #### [Paracrawl](https://www.paracrawl.eu/)
 
