@@ -249,6 +249,12 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 * automatic annotation
 * source: Wikipedia
 
+
+### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
+
+* Manually annotated set
+* Diploma thesis at Commeius University
+
 ### Spelling
 
 #### [CHIBI](https://www.juls.savba.sk/errcorp.html)
