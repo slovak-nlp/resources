@@ -301,10 +301,9 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 - Slovak BERT by Ardevop SK
 
-#### [ApoTro/slovak-t5-small](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
+#### [ApoTro/slovak-t5-small](https://huggingface.co/ApoTro/slovak-t5-small)
 
-T5 small, trained on OSCAR dataset.
-
+Slovak T5 small, created by fine-tuning mT5 small.
 
 #### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
