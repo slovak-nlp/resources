@@ -7,77 +7,6 @@ A curated list of resources for the processing of Slovak language.
  * [Slovak speech and language processing ](https://nlp.kemt.fei.tuke.sk) at KEMT FEI TUKE with tools, demos and language resources.
  * [Slovak National Corpus](https://korpus.sk/)
 
-## Tools
-
-
-#### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
-
-- Spelling Dictionary
-- List of common names, abbreviations, pejoratives and neologisms.
-
-#### [Stanza](https://github.com/stanfordnlp/stanza)
-
-* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
-* models trained on UD
-* implementation in Python/PyTorch, command-line interface, web service interface
-* license: Apache v2.0
-
-#### [NLP-Cube](https://github.com/adobe/NLP-Cube)
-
-* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
-* models trained on UD
-* implementation in Python/dyNET, command-line interface, web service interface
-* license: Apache v2.0
-
-#### [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk)
-
-* tokenization, stemming
-
-#### [Slovak lexer](https://github.com/hladek/slovak-lexer)
-
-* tokenization, segmentation
-* implementation in C++
-* license: GPL v3.0
-
-#### [dl4dp](https://github.com/peterbednar/dl4dp)
-
-* UPOS, UD
-* models trained on UD
-* implementation in Python/PyTorch, command-line interface
-* license: MIT
-
-#### [UDPipe](https://ufal.mff.cuni.cz/udpipe)
-
-* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
-* models trained on UD
-* implementation in C++, bindings in Java, Python, Perl, C#, command-line interface, web service interface
-* license: MPL v2.0
-
-#### [NLP4SK](http://arl6.library.sk/nlp4sk/)
-
-* tokenization, stemming, lemmatization, diacritic restoration, POS (SNK), NER
-* web service interface only
-* license: ?
-
-#### [NLP Tools](https://github.com/Ardevop-sk/nlp-tools)
-
-* tokenization, segmentation, lemmatization, POS (OpenNLP, SNK), UD (CoreNLP), NER
-* web interface at http://nlp.bednarik.top/
-* Swagger REST API
-* implementation in Java/DL4J
-* source codes available
-* license: GNU AGPLv3
-
-### [Semä](https://www.juls.savba.sk/semä)
-
-* Web-based  Visualisation of Slovak word vectors
-
-### [Simplemma](https://pypi.org/project/simplemma/)
-
-* Lemmatization for 25 languages
-* In Python
-* Slovak trained on UDP corpus
-
 ## Corpora, datasets, vocabularies
 
 
@@ -340,3 +269,76 @@ Slovak T5 small, created by fine-tuning mT5 small.
 ### [LASER](https://github.com/facebookresearch/LASER)
 
 - Language agnostic sentence embeddings.
+
+## Tools
+
+#### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
+
+- Spelling Dictionary
+- List of common names, abbreviations, pejoratives and neologisms.
+
+#### [Stanza](https://github.com/stanfordnlp/stanza)
+
+* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
+* models trained on UD
+* implementation in Python/PyTorch, command-line interface, web service interface
+* license: Apache v2.0
+
+#### [NLP-Cube](https://github.com/adobe/NLP-Cube)
+
+* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
+* models trained on UD
+* implementation in Python/dyNET, command-line interface, web service interface
+* license: Apache v2.0
+
+#### [Slovak Elasticsearch](https://github.com/essential-data/elasticsearch-sk)
+
+* tokenization, stemming
+
+#### [Slovak lexer](https://github.com/hladek/slovak-lexer)
+
+* tokenization, segmentation
+* implementation in C++
+* license: GPL v3.0
+
+#### [dl4dp](https://github.com/peterbednar/dl4dp)
+
+* UPOS, UD
+* models trained on UD
+* implementation in Python/PyTorch, command-line interface
+* license: MIT
+
+#### [UDPipe](https://ufal.mff.cuni.cz/udpipe)
+
+* tokenization, segmentation, UPOS, XPOS (SNK), lemmatization, UD
+* models trained on UD
+* implementation in C++, bindings in Java, Python, Perl, C#, command-line interface, web service interface
+* license: MPL v2.0
+
+#### [NLP4SK](http://arl6.library.sk/nlp4sk/)
+
+* tokenization, stemming, lemmatization, diacritic restoration, POS (SNK), NER
+* web service interface only
+* license: ?
+
+#### [NLP Tools](https://github.com/Ardevop-sk/nlp-tools)
+
+* tokenization, segmentation, lemmatization, POS (OpenNLP, SNK), UD (CoreNLP), NER
+* web interface at http://nlp.bednarik.top/
+* Swagger REST API
+* implementation in Java/DL4J
+* source codes available
+* license: GNU AGPLv3
+
+### [Semä](https://www.juls.savba.sk/semä)
+
+* Web-based  Visualisation of Slovak word vectors
+
+### [Simplemma](https://pypi.org/project/simplemma/)
+
+* Lemmatization for 25 languages
+* In Python
+* Slovak trained on UDP corpus
+
+
+  
