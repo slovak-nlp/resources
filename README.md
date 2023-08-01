@@ -83,6 +83,13 @@ A curated list of resources for the processing of Slovak language.
 
 ### Web
 
+#### [Multilingual C4](https://github.com/allenai/allennlp/discussions/5265)
+
+- Created for training [mT5 model](https://www.semanticscholar.org/paper/mT5%3A-A-Massively-Multilingual-Pre-trained-Xue-Constant/74276a37bfa50f90dfae37f767b2b67784bd402a).
+- Contains 67GB Slovak part.
+- Available in Tensorflow format and HuggingFace JSON format. 
+- Can be downloaded from https://github.com/allenai/allennlp/discussions/5056 using git LFS.
+
 #### [Common Crawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/)
 
 #### [SkTenTen](https://www.sketchengine.eu/sktenten-slovak-corpus/)
