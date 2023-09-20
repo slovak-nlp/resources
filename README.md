@@ -255,6 +255,10 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 * multilingual BERT, trained on Wikipedia
 
+### [M2M 100](https://huggingface.co/facebook/m2m100_418M)
+
+- Multilingual translation model with Slovak support.
+
 #### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
 
 - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
