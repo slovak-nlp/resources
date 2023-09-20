@@ -255,9 +255,12 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 * multilingual BERT, trained on Wikipedia
 
-### [M2M 100](https://huggingface.co/facebook/m2m100_418M)
+### [M2M 100](https://github.com/facebookresearch/fairseq/tree/main/examples/m2m_100)
 
 - Multilingual translation model with Slovak support.
+- Build for Fairseq
+- [HuggingFace Transformers model](https://huggingface.co/facebook/m2m100_418M)
+ 
 
 #### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
 
