@@ -202,6 +202,13 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 #### [Slovak Wordnet](https://korpus.sk/WordNet.html)
 
+### Summarization
+
+#### [A Summarization Dataset of Slovak News Articles](https://huggingface.co/datasets/kiviki/SlovakSum)
+
+- 200k of news article summaries
+- Reference: Marek Suppa and Jergus Adamec. 2020. [A Summarization Dataset of Slovak News Articles](https://aclanthology.org/2020.lrec-1.830/). In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 6725–6730, Marseille, France. European Language Resources Association.
+
 ## Models
 
 ### [Slovak Spacy Model](https://github.com/hladek/spacy-skmodel)
