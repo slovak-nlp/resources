@@ -9,7 +9,6 @@ A curated list of resources for the processing of Slovak language.
 
 ## Corpora, datasets, vocabularies
 
-
 ### Web
 
 #### [Multilingual C4](https://github.com/allenai/allennlp/discussions/5265)
@@ -172,7 +171,14 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 9.1k Czech, 2.8k Polish and 12.6k Slovak labeled claims with reasoning: demagog.zip (~16.5 MB)
 
-### NER
+### Instructions
+
+#### [SlovAlpaca](https://huggingface.co/datasets/blip-solutions/SlovAlpaca)
+
+- Machine translation of the [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
+- 40k annotations
+
+### Named Entity Recognition
 
 ### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
