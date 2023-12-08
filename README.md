@@ -40,6 +40,27 @@ A curated list of resources for the processing of Slovak language.
 * no annotattion
 * twitter part
 
+### Question  Answering
+
+
+#### [SK QUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/skquad)
+
+- Manually annotated clone of SQUAD 2.0
+- Contains "unanswerable questions"
+- 92k items
+
+#### [Slovak SQUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/squad-sk)
+
+- Machine translation of SQUAD 2.0 Database
+- 140k annotated items
+
+#### [Slovak BoolQ](https://huggingface.co/datasets/crabz/boolq_sk)
+
+- 5 000 yes-no questions
+- Each example is a triplet of (question, passage, answer), with the title of the page as optional additional context.
+- Machine translated
+- Can be used also for summarization
+
 ### Morpho-syntactic
 
 #### [Slovak Dependency Treebank](https://lindat.cz/repository/xmlui/handle/11234/1-1822)
