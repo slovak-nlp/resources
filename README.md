@@ -186,7 +186,7 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 - Source: [Slovakbert auxiliary repository](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) BY Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik. , 2021
 - Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
 
-#### [sk_csfd-movie-reviews](https://huggingface.co/datasets/fewshot-goes-multilingual/sk_csfd-movie-reviews]
+#### [sk csfd movie reviews](https://huggingface.co/datasets/fewshot-goes-multilingual/sk_csfd-movie-reviews)
 
 - CSFD Movie Reviews
 - 25k items
@@ -209,7 +209,7 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 #### [WikiGold](https://huggingface.co/datasets/NaiveNeuron/wikigoldsk)
 
-- 10k manually annoated items from Wikipedia
+- 10k manually annotated items from Wikipedia
 
 #### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
