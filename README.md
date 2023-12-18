@@ -14,7 +14,7 @@ A curated list of resources for the processing of Slovak language.
 #### [Multilingual C4](https://github.com/allenai/allennlp/discussions/5265)
 
 - Created for training [mT5 model](https://www.semanticscholar.org/paper/mT5%3A-A-Massively-Multilingual-Pre-trained-Xue-Constant/74276a37bfa50f90dfae37f767b2b67784bd402a).
-- Contains 67GB Slovak part.
+- Contains 67GB Slovak part. bv
 - Available in Tensorflow format and HuggingFace JSON format. 
 - Can be downloaded from https://github.com/allenai/allennlp/discussions/5056 using git LFS.
 
@@ -186,6 +186,11 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 - Source: [Slovakbert auxiliary repository](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) BY Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik. , 2021
 - Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
 
+#### [sk_csfd-movie-reviews](https://huggingface.co/datasets/fewshot-goes-multilingual/sk_csfd-movie-reviews]
+
+- CSFD Movie Reviews
+- 25k items
+
 ### Fact Checking
 
 #### [Demagog](https://corpora.kiv.zcu.cz/fact-checking/) 
@@ -201,7 +206,12 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Named Entity Recognition
 
-### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
+
+#### [WikiGold](https://huggingface.co/datasets/NaiveNeuron/wikigoldsk)
+
+- 10k manually annoated items from Wikipedia
+
+#### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
  translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
 
@@ -213,10 +223,14 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 * source: Wikipedia
 
 
-### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
+#### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
 
 * Manually annotated set
 * Diploma thesis at Commeius University
+
+
+
+
 
 ### Spelling
 
