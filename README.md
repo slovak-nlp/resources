@@ -279,6 +279,10 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 * source: Wikipedia
 
+#### [E5](https://huggingface.co/intfloat/e5-large-v2)
+
+ * Multilingual document embeddings, based on Sentence Transformers.
+
 ### Transformers
 
 #### [SlovakBert](https://github.com/gerulata/slovakbert)
