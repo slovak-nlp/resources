@@ -281,6 +281,19 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 * source: Wikipedia
 
+### Document Embeddings
+
+
+
+
+#### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
+
+- Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
+
+#### [LASER](https://github.com/facebookresearch/LASER)
+
+- Language agnostic sentence embeddings.
+
 #### [E5](https://huggingface.co/intfloat/e5-large-v2)
 
  * Multilingual document embeddings, based on Sentence Transformers.
@@ -300,10 +313,6 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 Slovak T5 small, created by fine-tuning mT5 small.
 
-#### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
-
-- Transformer models for machine translation
-- Slovak, English, Finish, Swedish, Spanish, French
 
 #### [VoxPopuli Slovak model](https://huggingface.co/facebook/wav2vec2-base-10k-voxpopuli-ft-sk)
 
@@ -314,27 +323,26 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 * multilingual BERT, trained on Wikipedia
 
+### Translation models
+
+#### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
+
+- Transformer models for machine translation
+- Slovak, English, Finish, Swedish, Spanish, French
+
+
 #### [M2M 100](https://github.com/facebookresearch/fairseq/tree/main/examples/m2m_100)
 
 - Multilingual translation model with Slovak support.
 - Build for Fairseq
 - [HuggingFace Transformers model](https://huggingface.co/facebook/m2m100_418M)
  
-
-#### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
-
-- Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
-
 #### [Flores](https://github.com/pytorch/fairseq/tree/master/examples/flores101)
 
 - Flores101: Large-Scale Multilingual Machine Translation
 - Baseline pretrained models for small and large tracks of WMT 21 Large-Scale Multilingual Machine Translation competition.
 - Includes Slovak language
 - For fairseq
-
-#### [LASER](https://github.com/facebookresearch/LASER)
-
-- Language agnostic sentence embeddings.
 
 ### Tools
 
