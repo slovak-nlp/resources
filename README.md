@@ -245,7 +245,7 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Summarization
 
-#### [Eur Lex Sum]https://huggingface.co/datasets/dennlinger/eur-lex-sum/viewer/slovak
+#### [Eur Lex Sum](https://huggingface.co/datasets/dennlinger/eur-lex-sum/viewer/slovak)
 
 - Multilingual Summarization Dataset
 - Slovak part has 1.3k rows.
@@ -257,7 +257,9 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ## Models
 
-### [Slovak Spacy Model](https://github.com/hladek/spacy-skmodel)
+### General Models
+
+#### [Slovak Spacy Model](https://github.com/hladek/spacy-skmodel)
 
 - Contains Floret Word Vectors.
 - Tagger module uses Slovak National Corpus Tagset.
