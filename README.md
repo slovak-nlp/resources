@@ -314,7 +314,7 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 * multilingual BERT, trained on Wikipedia
 
-### [M2M 100](https://github.com/facebookresearch/fairseq/tree/main/examples/m2m_100)
+#### [M2M 100](https://github.com/facebookresearch/fairseq/tree/main/examples/m2m_100)
 
 - Multilingual translation model with Slovak support.
 - Build for Fairseq
@@ -325,18 +325,18 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
 
-### [Flores](https://github.com/pytorch/fairseq/tree/master/examples/flores101)
+#### [Flores](https://github.com/pytorch/fairseq/tree/master/examples/flores101)
 
 - Flores101: Large-Scale Multilingual Machine Translation
 - Baseline pretrained models for small and large tracks of WMT 21 Large-Scale Multilingual Machine Translation competition.
 - Includes Slovak language
 - For fairseq
 
-### [LASER](https://github.com/facebookresearch/LASER)
+#### [LASER](https://github.com/facebookresearch/LASER)
 
 - Language agnostic sentence embeddings.
 
-## Tools
+### Tools
 
 #### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
@@ -396,11 +396,11 @@ Slovak T5 small, created by fine-tuning mT5 small.
 * source codes available
 * license: GNU AGPLv3
 
-### [Semä](https://www.juls.savba.sk/semä)
+#### [Semä](https://www.juls.savba.sk/semä)
 
 * Web-based  Visualisation of Slovak word vectors
 
-### [Simplemma](https://pypi.org/project/simplemma/)
+#### [Simplemma](https://pypi.org/project/simplemma/)
 
 * Lemmatization for 25 languages
 * In Python
