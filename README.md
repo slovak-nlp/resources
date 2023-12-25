@@ -337,10 +337,10 @@ Slovak T5 small, created by fine-tuning mT5 small.
 #### [NLLB - No Langauge Left Behind](https://github.com/gordicaleksa/Open-NLLB)
 
 - Multilingual translation model for Fairseq
+- Provides also language detection models
 - [Original Fairseq REPO](https://github.com/facebookresearch/fairseq/tree/nllb)
-
-https://github.com/facebookresearch/fairseq/tree/nllb
-
+- HuggingFace [Transformers integration](https://huggingface.co/facebook/nllb-200-distilled-600M) - distilled 600M version
+  
 #### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
 - Transformer models for machine translation
