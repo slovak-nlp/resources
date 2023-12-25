@@ -325,6 +325,22 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 ### Translation models
 
+
+#### [Helsinki Opus NLP](https://opus.nlpl.eu/Opus-MT/)
+
+- Bidirectional translation models for Slovak for multiple languages
+- Also available for HF Transformers
+- Contains SentencePiece tokenization models
+- For [MarianNMT](https://marian-nmt.github.io/)
+- English, German, Finish, French, Swedich, 
+
+#### [NLLB - No Langauge Left Behind](https://github.com/gordicaleksa/Open-NLLB)
+
+- Multilingual translation model for Fairseq
+- [Original Fairseq REPO](https://github.com/facebookresearch/fairseq/tree/nllb)
+
+https://github.com/facebookresearch/fairseq/tree/nllb
+
 #### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
 - Transformer models for machine translation
