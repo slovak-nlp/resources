@@ -24,6 +24,7 @@ A curated list of resources for the processing of Slovak language.
 
 * automatic POS (SNK)
 * source: web
+* can be downloaded from [Clarin](https://lindat.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0?show=full)
 
 #### [Oscar](https://oscar-corpus.com)
 
