@@ -207,6 +207,10 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Named Entity Recognition
 
+#### [ner-rent-sk](https://huggingface.co/datasets/mtarasovic/ner-rent-sk-dataset)
+
+- 250 rent agreements, annotated for entities such as tennant, landlord, monthly fee, subject.
+- Unknown origin and license.
 
 #### [WikiGold](https://huggingface.co/datasets/NaiveNeuron/wikigoldsk)
 
