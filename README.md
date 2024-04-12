@@ -111,6 +111,14 @@ Reference:
 
 ### Parallel
 
+
+#### [ŠarišSet](https://huggingface.co/datasets/kiviki/SarisSet)
+
+- Corpus of the Šariš dialect
+- 4.7k examples.
+- authors: Viktória Ondrejová and Marek Šuppa
+
+
 #### [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles-v2018.php)
 
 - 62 languages, 1,782 bitexts
