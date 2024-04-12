@@ -215,6 +215,12 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Named Entity Recognition
 
+#### [Universal NER Slovak](https://huggingface.co/datasets/universalner/uner_llm_inst_slovak)
+
+- 8,48k sentences
+- Annotated by a large langauge model
+- PER, ORG, LOC annotations
+
 #### [ner-rent-sk](https://huggingface.co/datasets/mtarasovic/ner-rent-sk-dataset)
 
 - 250 rent agreements, annotated for entities such as tennant, landlord, monthly fee, subject.
