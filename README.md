@@ -246,6 +246,8 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 * Manually annotated set
 * Diploma thesis at Commeius University
+* PER, ORG, LOC, MISC annotations
+* cca 7k sentences.
 
 
 
