@@ -55,6 +55,13 @@ A curated list of resources for the processing of Slovak language.
 - Machine translation of SQUAD 2.0 Database
 - 140k annotated items
 
+#### [qa2d-sk](https://huggingface.co/datasets/ctu-aic/qa2d-sk)
+
+- Slovak version of the Question to Declarative Sentence (QA2D).
+- Machine-translated using DeepL service.
+- https://arxiv.org/abs/2312.10171
+- 70k questions and answers
+
 #### [Slovak BoolQ](https://huggingface.co/datasets/crabz/boolq_sk)
 
 - 5 000 yes-no questions
