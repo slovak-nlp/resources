@@ -213,6 +213,11 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 9.1k Czech, 2.8k Polish and 12.6k Slovak labeled claims with reasoning: demagog.zip (~16.5 MB)
 
+#### [qacg-sk](https://huggingface.co/datasets/ctu-aic/qacg-sk)
+
+- Machine translated facts with evidence representend as references to Wikipedia pages.
+- 350k items
+- 
 ### Instructions
 
 #### [SlovAlpaca](https://huggingface.co/datasets/blip-solutions/SlovAlpaca)
