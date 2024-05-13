@@ -247,6 +247,13 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
  translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
 
 
+#### [Polyglot NER](https://huggingface.co/datasets/polyglot_ner)
+
+- automatically annotated Wikipedia for Named Entities
+- massively multilingual
+- Slovak part has 500k sentences.
+- Reference: Al-Rfou, Rami, et al. "Polyglot-NER: Massive multilingual named entity recognition." Proceedings of the 2015 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2015.
+
 #### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
 
 * [download data](https://drive.google.com/drive/folders/1bkK6ly_awxe9IgAKL16VVvCtjcYcDSw8)
