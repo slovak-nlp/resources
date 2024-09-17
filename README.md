@@ -235,6 +235,15 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 - CSFD Movie Reviews
 - 25k items
 
+### Hate Speech
+
+#### [Hate Speech Slovak](https://huggingface.co/datasets/TUKE-KEMT/hate_speech_slovak)
+
+- 13k items
+- Crowdsourced hate and offensive speech in Facebook comments
+- binary classification
+
+
 ### Fact Checking
 
 #### [Demagog](https://corpora.kiv.zcu.cz/fact-checking/) 
