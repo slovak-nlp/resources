@@ -232,6 +232,17 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Named Entity Recognition
 
+#### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
+
+- CNEC 2.0 Czech model machine translated to Slovak & filtered
+- CNEC entity hierarchy
+- source: JÚĽŠ SAV
+
+#### [NER web demo](https://www.juls.savba.sk/nerd/)
+
+- models: CNEC 2.0 cs2sk, morphodita SNK
+- source: JÚĽŠ SAV, SNK
+
 #### [Universal NER Slovak](https://huggingface.co/datasets/universalner/uner_llm_inst_slovak)
 
 - 8,48k sentences
