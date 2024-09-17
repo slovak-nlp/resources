@@ -466,7 +466,7 @@ Slovak T5 small, created by fine-tuning mT5 small.
 - Includes Slovak language
 - For fairseq
 
-### Tools
+### Tools and demos
 
 #### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
