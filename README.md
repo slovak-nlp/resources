@@ -33,13 +33,19 @@ A curated list of resources for the processing of Slovak language.
 
 #### [Aranea](http://ucts.uniba.sk/aranea_about/)
 
-* automatic POS ([AUT](http://ucts.uniba.sk/aranea_about/aut.html), TreeTagger)
+* automatic lemmatization, MSD, POS ([AUT](http://ucts.uniba.sk/aranea_about/aut.html), ensemble lemmatization+POS)
 * source: web
 
 #### [HC Corpora](http://corpora.epizy.com/corpora.html)
 
 * no annotattion
 * twitter part
+
+#### [[HPLT dataset(s)](https://hplt-project.org/datasets/v1.2)
+* web corpora
+* no annotation
+* no deduplication
+* lemmatized, POS+MSD+syntactically tagged, deduplicated corpus: https://www.juls.savba.sk/hpltskcorp.html
 
 ### Question  Answering
 
