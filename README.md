@@ -41,7 +41,7 @@ A curated list of resources for the processing of Slovak language.
 * no annotattion
 * twitter part
 
-#### [[HPLT dataset(s)](https://hplt-project.org/datasets/v1.2)
+#### [HPLT dataset(s)](https://hplt-project.org/datasets/v1.2)
 * web corpora
 * no annotation
 * no deduplication
