@@ -71,6 +71,31 @@ A curated list of resources for the processing of Slovak language.
 
 ### Morpho-syntactic
 
+#### [Morphological vocabulary (old version)](https://korpus.sk/morphology_database.html)
+
+* form, lemma, POS+MSD (SNK)
+* source: SNK
+
+#### [Morphological vocabulary (web demo)](https://korpus.sk/morphology_database.html)
+
+* form, lemma, POS+MSD (SNK)
+* source: SNK
+
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), web demo](https://morphodita.juls.savba.sk/)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
+
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), web API](https://www.juls.savba.sk/MSD_en.html)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
+
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), diacritics-less Slovak, web demo](https://www.juls.savba.sk/bezdiak/)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
+
 #### [Slovak Dependency Treebank](https://lindat.cz/repository/xmlui/handle/11234/1-1822)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
@@ -103,14 +128,6 @@ Reference:
 * format: conllu
 * source: Slovak UD, SNK
 
-#### [Morphological vocabulary](https://korpus.sk/morphology_database.html)
-
-* form, lemma, POS (SNK)
-* source: SNK
-
-#### [Morphological vocabulary](http://tvaroslovnik.ics.upjs.sk)
-
-* form, lemma, POS
 
 #### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
 
