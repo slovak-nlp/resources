@@ -246,6 +246,12 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Fact Checking
 
+#### [MultiClaim](https://github.com/kinit-sk/multiclaim)
+
+- Multilingual fact checking database with Slovak part
+- Contains 28k posts in 27 languages from social media, 206k fact-checks in 39 languages written by professional fact-checkers, as well as 31k connections between these two groups.
+
+
 #### [Demagog](https://corpora.kiv.zcu.cz/fact-checking/) 
 
 9.1k Czech, 2.8k Polish and 12.6k Slovak labeled claims with reasoning: demagog.zip (~16.5 MB)
