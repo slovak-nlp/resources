@@ -320,6 +320,12 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Word embeddings
 
+#### [JÚĽŠ word embeddings](https://www.juls.savba.sk/data/semä/)
+
+* word form, POS+lemma, fasstext embeddings
+* source: JÚĽŠ + SNK (prim), also from older prim-* corpora
+* description: https://www.juls.savba.sk/semä.html
+
 #### [ELMo word embeddings](https://github.com/HIT-SCIR/ELMoForManyLangs)
 
 * source: Wikipedia, Common Crawl
