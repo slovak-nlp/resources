@@ -341,7 +341,7 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Wordnet
 
-#### [Slovak Wordnet](https://korpus.sk/WordNet.html)
+#### [Slovak Wordnet](https://korpus.sk/korpusy-a-databazy/databazy/wordnet/)
 
 ### Summarization
 
