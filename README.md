@@ -447,10 +447,13 @@ Slovak T5 small, created by fine-tuning mT5 small.
 - [Original Fairseq REPO](https://github.com/facebookresearch/fairseq/tree/nllb)
 - HuggingFace [Transformers integration](https://huggingface.co/facebook/nllb-200-distilled-600M) - distilled 600M version
   
-#### [HuggingFace Translation models](https://huggingface.co/models?filter=sk)
 
-- Transformer models for machine translation
-- Slovak, English, Finish, Swedish, Spanish, French
+#### [MadLad400](https://huggingface.co/google/madlad400-3b-mt)
+
+- Uses T5 architecture
+- https://arxiv.org/abs/2309.04662
+- Supports 400 languages, including Slovak
+- Previously used for Google Translate
 
 
 #### [M2M 100](https://github.com/facebookresearch/fairseq/tree/main/examples/m2m_100)
