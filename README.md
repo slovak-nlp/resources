@@ -406,6 +406,16 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 ### Transformers
 
+#### [Slovak Mistral 7B](https://huggingface.co/slovak-nlp/mistral-sk-7b)
+
+- is a Slovak language version of the Mistral-7B-v0.1 large language model with 7 billion parameters.
+- obtained by full parameter finetuning of the Mistral-7B-v0.1 large language model with the data from the Araneum Slovacum VII Maximum web corpus.
+
+### [Slovak T5 Base](https://huggingface.co/TUKE-KEMT/slovak-t5-base)
+
+- Monolingual Slovak T5 model with 300 million parameters
+- Trained from scratch on large web corpus
+
 #### [SlovakBert](https://github.com/gerulata/slovakbert)
 
 - Slovak RoBERTa base language model
