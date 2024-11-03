@@ -1,7 +1,7 @@
 # Resources
 A curated list of resources for the processing of Slovak language.
 
- * [Models and tools](MODELS>md)
+ * [Models and tools](MODELS.md)
 
 ## Pages
 
