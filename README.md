@@ -77,6 +77,12 @@ A curated list of resources for the processing of Slovak language.
 
 ### Morpho-syntactic
 
+#### Korpus právnych predpisov v slovenčine[](https://www.juls.savba.sk/legalcorp.html)
+
+- Korpus obsahuje texty právnych predpisov (aktuálnych aj minulých) v slovenčine. Okrem automatickej lematizácie a morfologickej anotácie je korpus anotovaný aj syntakticky
+- Citácia: GARABÍK, Radovan: Corpus of Slovak legislative documents. Jazykovedný časopis, 2022, Vol. 73, No 2, pp. 175-189.
+- 45 miliónov tokenov
+  
 #### [Morphological vocabulary (old version)](https://korpus.sk/morphology_database.html)
 
 * form, lemma, POS+MSD (SNK)
