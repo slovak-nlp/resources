@@ -268,7 +268,15 @@ Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slove
 
 - Machine translated facts with evidence representend as references to Wikipedia pages.
 - 350k items
-- 
+
+
+### Biases
+
+#### [GEST](https://github.com/kinit-sk/gest)
+
+- GEST dataset used to measure gender-stereotypical reasoning in language models and machine translation systems.
+
+
 ### Instructions
 
 #### [SlovAlpaca](https://huggingface.co/datasets/blip-solutions/SlovAlpaca)
