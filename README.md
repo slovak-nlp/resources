@@ -349,7 +349,11 @@ Reference:
 * cca 7k sentences.
 
 
+#### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
 
+* A Large Multilingual Dataset for Entity Linking
+* Slovak part has 41.0M tokens and 1366.4k entities
+* named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART,MANUFACTURED
 
 
 ### Spelling
