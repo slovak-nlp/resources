@@ -185,13 +185,13 @@ Reference:
 * automatic POS (SNK)
 * source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
 
-#### [English-Slovak parallel corpus of texts from The Ministry of Justice of the Slovak Republic](https://elrc-share.eu/repository/browse/english-slovak-parallel-corpus-of-texts-from-the-ministry-of-justice-of-the-slovak-republic-processed/)
+#### [English-Slovak parallel corpus of texts from The Ministry of Justice of the Slovak Republic](https://hdl.handle.net/21.11129/0000-000D-F908-2)
 
 * Dataset of various English-Slovak legal texts within agenda of the Ministry,
 * plain text format alligned at the sentence level, the size: 112580 words.
 * It was converted into a 2895-TUs English-Slovak resource in TMX format.
 
-#### [English-Slovak parallel corpus of texts from The Ministry of Culture of the Slovak Republic](https://elrc-share.eu/repository/browse/english-slovak-parallel-corpus-of-texts-from-the-ministry-of-culture-of-the-slovak-republic-processed/)
+#### [English-Slovak parallel corpus of texts from The Ministry of Culture of the Slovak Republic](https://data.europa.eu/data/datasets/elrc_329?locale=en)
 
 * Dataset of various English-Slovak legal texts within agenda of the Ministry,
 * plain text format alligned at the sentence level,
