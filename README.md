@@ -193,17 +193,6 @@ Reference:
 * It is converted into a 2609-TUs English-Slovak resource in TMX format.
 
 
-#### [MULTEXT-East "1984" annotated corpus](https://www.clarin.si/repository/xmlui/handle/11356/1043)
-
-* sentence aligned, POS
-* Bulgarian, Czech, English, Estonian, Hungarian, Macedonian, Persian, Polish, Romanian, Serbian, Slovak, Slovenian
-* source: "1984" novel
-
-Reference:
-
-Erjavec, Tomaž; et al., 2010,   MULTEXT-East "1984" annotated corpus 4.0, Slovenian language resource repository CLARIN.SI, ISSN 2820-4042,   http://hdl.handle.net/11356/1043.
-
-
 #### [Paracrawl](https://www.paracrawl.eu/)
 
  * Parallel web Corpus with Slovak Part 
