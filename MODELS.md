@@ -34,8 +34,6 @@
 ### Document Embeddings
 
 
-
-
 #### [Language Agnostic BERT model](https://huggingface.co/setu4993/LaBSE)
 
 - Language-agnostic BERT Sentence Encoder (LaBSE) is a BERT-based model trained for sentence embedding for 109 languages.
@@ -73,7 +71,6 @@
 
 Slovak T5 small, created by fine-tuning mT5 small.
 
-
 #### [VoxPopuli Slovak model](https://huggingface.co/facebook/wav2vec2-base-10k-voxpopuli-ft-sk)
 
 - VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
@@ -82,6 +79,21 @@ Slovak T5 small, created by fine-tuning mT5 small.
 #### [m-BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
 
 * multilingual BERT, trained on Wikipedia
+
+#### [Slovak BPE Baby Language Model (SK_BPE_BLM)](https://huggingface.co/daviddrzik/SK_BPE_BLM)
+
+- SK_BPE_BLM is a pretrained small language model for the Slovak language, based on the RoBERTa architecture. The model utilizes standard Byte-Pair Encoding (BPE) tokenization (pureBPE, more info here) and is case-insensitive, meaning it operates in lowercase.
+- The SK_BPE_BLM model was pretrained using a subset of the OSCAR 2019 corpus
+- Sequence length: 256 tokens
+- Number of parameters: 58 million
+- There are fine tuned models:
+    * SK_BPE_BLM-ner: Fine-tuned for Named Entity Recognition (NER) tasks.
+    * SK_BPE_BLM-pos: Fine-tuned for Part-of-Speech (POS) tagging.
+    * SK_BPE_BLM-qa: Fine-tuned for Question Answering tasks.
+    * SK_BPE_BLM-sentiment-csfd: Fine-tuned for sentiment analysis on the CSFD (movie review) dataset.
+    * SK_BPE_BLM-sentiment-multidomain: Fine-tuned for sentiment analysis across multiple domains.
+    * SK_BPE_BLM-sentiment-reviews: Fine-tuned for sentiment analysis on general review datasets.
+    * SK_BPE_BLM-topic-news: Fine-tuned for topic classification in news articles.
 
 ### Translation models
 
@@ -192,3 +204,16 @@ Slovak T5 small, created by fine-tuning mT5 small.
 * Lemmatization for 25 languages
 * In Python
 * Slovak trained on UDP corpus
+
+### Tokenizers
+
+#### [Slovak Subword Tokenizers](https://github.com/daviddrzik/Slovak_subword_tokenizers)
+
+- implementations of two tokenizers developed specifically for the Slovak language: pureBPE and SKMT
+- Držík, D., & Forgac, F. (2024). Slovak morphological tokenizer using the Byte-Pair Encoding algorithm. PeerJ Computer Science, 10, e2465. https://doi.org/10.7717/peerj-cs.2465
+
+#### [Slovak Lexe](https://github.com/hladek/slovak-lexer)
+
+- Fast word-based tokenizers based on a state-machine.
+- Can recognize sentences and words.
+- Contains rules for abbreviations,adresses, dates, ordinal numbers.
