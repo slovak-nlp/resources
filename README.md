@@ -378,3 +378,11 @@ Reference:
 
 - 200k of news article summaries
 - Reference: Marek Suppa and Jergus Adamec. 2020. [A Summarization Dataset of Slovak News Articles](https://aclanthology.org/2020.lrec-1.830/). In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 6725–6730, Marseille, France. European Language Resources Association.
+
+### Reasoning
+
+#### [multimodal-SK-exams](https://huggingface.co/datasets/dokato/multimodal-SK-exams)
+
+- Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
+- 131K manually created math questions. One choice of 4 is correct.
+
