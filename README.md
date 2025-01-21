@@ -13,6 +13,12 @@ A curated list of resources for the processing of Slovak language.
 
 ### Web
 
+#### [FineWeb2](https://huggingface.co/datasets/ivykopal/fineweb2-slovak)
+
+- the Slovak Portion of The FineWeb2 Dataset.
+- 14.1 billion words across more than 26.5 million documents.
+- sourced from 96 CommonCrawl snapshots, spanning the summer of 2013 to April 2024, and processed using datatrove,
+
 #### [Multilingual C4](https://github.com/allenai/allennlp/discussions/5265)
 
 - Created for training [mT5 model](https://www.semanticscholar.org/paper/mT5%3A-A-Massively-Multilingual-Pre-trained-Xue-Constant/74276a37bfa50f90dfae37f767b2b67784bd402a).
