@@ -379,6 +379,14 @@ Reference:
 - 200k of news article summaries
 - Reference: Marek Suppa and Jergus Adamec. 2020. [A Summarization Dataset of Slovak News Articles](https://aclanthology.org/2020.lrec-1.830/). In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 6725–6730, Marseille, France. European Language Resources Association.
 
+#### [Slovak Gigaword](https://huggingface.co/datasets/Plasmoxy/gigatrue-slovak)
+
+
+- Synthetic [Gigaword](https://huggingface.co/datasets/Harvard/gigaword) dataset translated to Slovak using [SeamlessM4T-v2](https://huggingface.co/docs/transformers/en/model_doc/seamless_m4t_v2).
+- 3.78 mil. summaries
+- Same as https://huggingface.co/datasets/Plasmoxy/gigatrue but translated to Slovak.
+
+
 ### Reasoning
 
 #### [multimodal-SK-exams](https://huggingface.co/datasets/dokato/multimodal-SK-exams)
