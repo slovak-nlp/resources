@@ -64,6 +64,11 @@ A curated list of resources for the processing of Slovak language.
 - Contains "unanswerable questions"
 - 92k items
 
+#### [multimodal-SK-exams](https://huggingface.co/datasets/dokato/multimodal-SK-exams)
+
+- Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
+- 131K manually created math questions. One choice of 4 is correct.
+
 #### [Slovak SQUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/squad-sk)
 
 - Machine translation of SQUAD 2.0 Database
@@ -393,10 +398,5 @@ Reference:
 - Same as https://huggingface.co/datasets/Plasmoxy/gigatrue but translated to Slovak.
 
 
-### Reasoning
 
-#### [multimodal-SK-exams](https://huggingface.co/datasets/dokato/multimodal-SK-exams)
-
-- Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
-- 131K manually created math questions. One choice of 4 is correct.
 
