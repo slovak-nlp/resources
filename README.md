@@ -309,6 +309,8 @@ Reference:
 #### [WikiGold](https://huggingface.co/datasets/NaiveNeuron/wikigoldsk)
 
 - 10k manually annotated items from Wikipedia
+- Repository: https://github.com/NaiveNeuron/WikiGoldSK
+- Paper: https://arxiv.org/abs/2304.04026
 
 #### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
 
