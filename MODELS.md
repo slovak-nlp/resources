@@ -143,6 +143,22 @@ Slovak T5 small, created by fine-tuning mT5 small.
 - source: JÚĽŠ SAV, SNK
 
 
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), web demo](https://morphodita.juls.savba.sk/)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
+
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), web API](https://www.juls.savba.sk/MSD_en.html)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
+
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), diacritics-less Slovak, web demo](https://www.juls.savba.sk/bezdiak/)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
+
+
 #### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
 - Spelling Dictionary
