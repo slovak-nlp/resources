@@ -312,11 +312,12 @@ Reference:
 - Repository: https://github.com/NaiveNeuron/WikiGoldSK
 - Paper: https://arxiv.org/abs/2304.04026
 
-#### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
+#### [WikiANN](https://huggingface.co/datasets/unimelb-nlp/wikiann)
 
-* [download data](https://drive.google.com/drive/folders/1bkK6ly_awxe9IgAKL16VVvCtjcYcDSw8)
-* automatic annotation
-* source: Wikipedia
+* [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178)
+* annotation extracted from wikipedia links.
+* Slovak part has 40k sentences
+
   
 #### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
 
