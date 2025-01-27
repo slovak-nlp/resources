@@ -306,16 +306,14 @@ Reference:
 
 ### Named Entity Recognition
 
-#### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
 
-- CNEC 2.0 Czech model machine translated to Slovak & filtered
-- CNEC entity hierarchy
-- source: JÚĽŠ SAV
 
-#### [NER web demo](https://www.juls.savba.sk/nerd/)
+#### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
 
-- models: CNEC 2.0 cs2sk, morphodita SNK
-- source: JÚĽŠ SAV, SNK
+* Manually annotated set
+* Diploma thesis at Commeius University
+* PER, ORG, LOC, MISC annotations
+* cca 7k sentences.
 
 #### [Universal NER Slovak](https://huggingface.co/datasets/universalner/uner_llm_inst_slovak)
 
@@ -337,6 +335,12 @@ Reference:
 
  translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
 
+#### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
+
+- CNEC 2.0 Czech model machine translated to Slovak & filtered
+- CNEC entity hierarchy
+- source: JÚĽŠ SAV
+
 
 #### [Polyglot NER](https://huggingface.co/datasets/polyglot_ner)
 
@@ -351,13 +355,6 @@ Reference:
 * automatic annotation
 * source: Wikipedia
 
-
-#### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
-
-* Manually annotated set
-* Diploma thesis at Commeius University
-* PER, ORG, LOC, MISC annotations
-* cca 7k sentences.
 
 
 #### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
