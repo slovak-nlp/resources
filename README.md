@@ -111,22 +111,6 @@ A curated list of resources for the processing of Slovak language.
 
 * form, lemma, POS+MSD (SNK)
 * source: SNK
-
-#### [Lemmatization, Morphological analysis, disambiguation (tagging), web demo](https://morphodita.juls.savba.sk/)
-
-* form, lemma, POS+MSD
-* source: JÚĽŠ SAV
-
-#### [Lemmatization, Morphological analysis, disambiguation (tagging), web API](https://www.juls.savba.sk/MSD_en.html)
-
-* form, lemma, POS+MSD
-* source: JÚĽŠ SAV
-
-#### [Lemmatization, Morphological analysis, disambiguation (tagging), diacritics-less Slovak, web demo](https://www.juls.savba.sk/bezdiak/)
-
-* form, lemma, POS+MSD
-* source: JÚĽŠ SAV
-
 #### [Slovak Dependency Treebank](https://lindat.cz/repository/xmlui/handle/11234/1-1822)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
