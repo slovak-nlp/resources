@@ -312,19 +312,11 @@ Reference:
 - Repository: https://github.com/NaiveNeuron/WikiGoldSK
 - Paper: https://arxiv.org/abs/2304.04026
 
-#### [WikiANN](https://huggingface.co/datasets/unimelb-nlp/wikiann)
+#### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
 
-* [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178)
-* annotation extracted from wikipedia links.
-* Slovak part has 40k sentences
-
-  
-#### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
-
-- CNEC 2.0 Czech model machine translated to Slovak & filtered
-- CNEC entity hierarchy
-- source: JÚĽŠ SAV
-
+* A Large Multilingual Dataset for Entity Linking
+* Slovak part has 41.0M tokens and 1366.4k entities
+* named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART,MANUFACTURED
 
 #### [Polyglot NER](https://huggingface.co/datasets/polyglot_ner)
 
@@ -333,17 +325,28 @@ Reference:
 - Slovak part has 500k sentences.
 - Reference: Al-Rfou, Rami, et al. "Polyglot-NER: Massive multilingual named entity recognition." Proceedings of the 2015 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2015.
 
+#### [WikiANN](https://huggingface.co/datasets/unimelb-nlp/wikiann)
+
+* [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178)
+* annotation extracted from wikipedia links.
+* Slovak part has 40k sentences
+ 
 
 #### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
  translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
 
+ 
+#### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
 
-#### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
+- CNEC 2.0 Czech model machine translated to Slovak & filtered
+- CNEC entity hierarchy
+- source: JÚĽŠ SAV
 
-* A Large Multilingual Dataset for Entity Linking
-* Slovak part has 41.0M tokens and 1366.4k entities
-* named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART,MANUFACTURED
+
+#### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
+
+ translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
 
 
 ### Spelling
