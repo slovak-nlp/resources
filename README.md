@@ -299,26 +299,23 @@ Reference:
 * PER, ORG, LOC, MISC annotations
 * cca 7k sentences.
 
-#### [Universal NER Slovak](https://huggingface.co/datasets/universalner/uner_llm_inst_slovak)
-
-- 8,48k sentences
-- Annotated by a large langauge model
-- PER, ORG, LOC annotations
-
 #### [Universal NER (UNER) Slovak SNK](https://github.com/UniversalNER/UNER_Slovak-SNK)
 
 - 8,48k train, 1k dev and 2k test sentences from Universal Dependencies
 - Human annotated by 2 annotators as part of the [Universal NER](https://www.universalner.org/) project
 - PER, ORG, LOC annotations
+- [AYA Instruction format](https://huggingface.co/datasets/universalner/uner_llm_inst_slovak)
 
 #### [WikiGold](https://huggingface.co/datasets/NaiveNeuron/wikigoldsk)
 
 - 10k manually annotated items from Wikipedia
 
-#### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
+#### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
 
- translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
-
+* [download data](https://drive.google.com/drive/folders/1bkK6ly_awxe9IgAKL16VVvCtjcYcDSw8)
+* automatic annotation
+* source: Wikipedia
+  
 #### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
 
 - CNEC 2.0 Czech model machine translated to Slovak & filtered
@@ -333,12 +330,10 @@ Reference:
 - Slovak part has 500k sentences.
 - Reference: Al-Rfou, Rami, et al. "Polyglot-NER: Massive multilingual named entity recognition." Proceedings of the 2015 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2015.
 
-#### [Cross-lingual Name Tagging and Linking for 282 Languages](https://elisa-ie.github.io/wikiann/)
 
-* [download data](https://drive.google.com/drive/folders/1bkK6ly_awxe9IgAKL16VVvCtjcYcDSw8)
-* automatic annotation
-* source: Wikipedia
+#### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
+ translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
 
 
 #### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
