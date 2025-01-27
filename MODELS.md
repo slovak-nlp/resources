@@ -137,6 +137,12 @@ Slovak T5 small, created by fine-tuning mT5 small.
 
 ### Tools and demos
 
+#### [NER web demo](https://www.juls.savba.sk/nerd/)
+
+- models: CNEC 2.0 cs2sk, morphodita SNK
+- source: JÚĽŠ SAV, SNK
+
+
 #### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
 - Spelling Dictionary
