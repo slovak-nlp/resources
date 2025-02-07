@@ -64,7 +64,7 @@ A curated list of resources for the processing of Slovak language.
 - Contains "unanswerable questions"
 - 92k items
 
-#### [multimodal-SK-exams](https://huggingface.co/datasets/dokato/multimodal-SK-exams)
+#### [Exam Slovak MathBio](https://huggingface.co/datasets/dokato/exam-slovak-mathbio)
 
 - Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
 - 131K manually created math questions. One choice of 4 is correct.
