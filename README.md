@@ -67,7 +67,7 @@ A curated list of resources for the processing of Slovak language.
 #### [Exam Slovak MathBio](https://huggingface.co/datasets/dokato/exam-slovak-mathbio)
 
 - Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
-- 131K manually created math questions. One choice of 4 is correct.
+- 131 manually created math questions. One choice of 4 is correct.
 
 #### [Slovak SQUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/squad-sk)
 
