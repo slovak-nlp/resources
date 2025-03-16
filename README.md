@@ -88,6 +88,19 @@ A curated list of resources for the processing of Slovak language.
 - Machine translated
 - Can be used also for summarization
 
+#### [MQA](https://huggingface.co/datasets/clips/mqa)
+
+- 785K question-answer pairs for the Slovak language
+- Each example consists of the question and corresponding answer
+- Data are parsed from [Common Crawl](https://commoncrawl.org/)
+- Questions are divided into: frequently asked questions (FAQ) and Community Question Answering (CQA)
+
+#### [WebFAQ](https://huggingface.co/datasets/PaDaS-Lab/webfaq)
+
+- 178K question-answer pairs for the Slovak language
+- Data obtained from FQA pages gathered from [Common Crawl](https://commoncrawl.org/)
+- Data also contains metadata, such as topic, question type
+
 ### Morpho-syntactic
 
 #### [HamleDT](https://ufal.mff.cuni.cz/hamledt)
@@ -247,6 +260,12 @@ Reference:
 - CSFD Movie Reviews
 - 25k items
 
+#### [Massive Multilingual Sentiment Corpora](https://huggingface.co/datasets/Brand24/mms)
+
+- Collection of multiple datasets across various languages
+- Contains also the data for Slovak
+- positive (29K) / neutral (13K) / negative (14K) labels
+
 ### Hate Speech
 
 #### [Hate Speech Slovak](https://huggingface.co/datasets/TUKE-KEMT/hate_speech_slovak)
@@ -287,6 +306,11 @@ Reference:
 
 - Machine translation of the [Stanford Alpaca](https://github.com/tatsu-lab/stanford_alpaca)
 - 40k annotations
+
+#### [AYA Collection](https://huggingface.co/datasets/CohereForAI/aya_collection_language_split)
+
+- 4.2 M records for the Slovak language
+- Machine tanslated using the NLLB 3.3B model
 
 ### Named Entity Recognition
 
@@ -379,6 +403,43 @@ Reference:
 - 3.78 mil. summaries
 - Same as https://huggingface.co/datasets/Plasmoxy/gigatrue but translated to Slovak.
 
+#### [FMI_Summarization](https://huggingface.co/datasets/FMISummarization/FMI_Summarization)
 
+- 1788 record for the Slovak language
+- Dataset created from European laws - EurLex
 
+### Natural Language Inference
 
+#### [ANLI_SK](https://huggingface.co/datasets/ivykopal/anli_sk)
+
+- 103K samples
+- Translated version of [ANLI](https://huggingface.co/datasets/facebook/anli) using the Google Translate
+
+### Topic Classification
+
+#### [Sib-200](https://huggingface.co/datasets/mteb/sib200)
+
+- Topic classification dataset consisting of 205 languages
+- 1K samples with 7 categories (science, geography, entertainment, politics, health, travel, sports)
+- Data obtained from the FLORES-200
+
+### Multilingual Benchmarks
+
+#### [Okapi MMLU](https://huggingface.co/datasets/jon-tow/okapi_mmlu)
+
+- Translated version of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset across 30 languages, including Slovak
+
+#### [Multilingual Hellaswag](https://huggingface.co/datasets/alexandrainst/m_hellaswag)
+
+- Translated version of the [HellaSwag](https://huggingface.co/datasets/Rowan/hellaswag) dataset across 35 languages, including Slovak
+- Translated using GPT-3.5-Turbo
+
+#### [Multilingual ARC](https://huggingface.co/datasets/alexandrainst/m_arc)
+
+- Translated version of the [ARC](https://huggingface.co/datasets/allenai/ai2_arc) dataset across 35 languages, including Slovak
+- Translated using GPT-3.5-Turbo
+
+#### [Multilingual TruthfulQA](https://huggingface.co/datasets/alexandrainst/m_truthfulqa)
+
+- Translated version of the [TruthfulQA](https://huggingface.co/datasets/truthfulqa/truthful_qa) dataset across 35 languages, including Slovak
+- Translated using GPT-3.5-Turbo
