@@ -228,6 +228,14 @@ Reference:
 
 ### Sentiment
 
+#### [The Nuclear News V4 Dataset](https://huggingface.co/datasets/eoplumbum/v4_nuclear_power_articles)
+
+-  is a multilingual dataset consisting of 33,104 unique news articles
+- sourced from 12 online news platforms across the Visegrád Group (V4) countries — Poland, Czech Republic, Slovakia, and Hungary — published between 1998 and 2025. The goal of the dataset is to analyze media narratives surrounding nuclear energy in Central Europe.
+- 30 percent in Slovak
+- annotated by language modes for overall sentiment toward nuclear energy, sentiment of the headline (pessimistic ↔ optimistic), degree of sensationalism / alarmism in the headline
+
+
 #### [Sentiment Analysis Data for the Slovak Language](https://huggingface.co/datasets/DGurgurov/slovak_sa)
 
 - 5k items
