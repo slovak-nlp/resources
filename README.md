@@ -228,6 +228,19 @@ Reference:
 
 ### Sentiment
 
+
+
+#### [SentiSK](https://huggingface.co/datasets/TUKE-KEMT/senti-sk)
+
+- Corpus of sentiment in Slovak social media.
+- The dataset contains 34 006 manually annotated comments from the social media platform Facebook.
+- Specifically, it includes:
+    * 20 668 comments labeled as "negative"
+    * 9 581 comments labeled as "neutral"
+    * 3 779 comments labeled as "positive"
+- Author: Zuzana Sokolová
+
+
 #### [The Nuclear News V4 Dataset](https://huggingface.co/datasets/eoplumbum/v4_nuclear_power_articles)
 
 -  is a multilingual dataset consisting of 33,104 unique news articles
@@ -275,6 +288,15 @@ Reference:
 - positive (29K) / neutral (13K) / negative (14K) labels
 
 ### Hate Speech
+
+#### [ToxicSK](https://huggingface.co/datasets/TUKE-KEMT/toxic-sk)
+
+- Corpus of toxic speech in social networks
+- The dataset contains 8 840 manually annotated comments from Facebook. Specifically, it includes:
+    * 4 420 comments labeled as "toxic" (value 1)
+    * 4 420 comments labeled as "non-toxic" (value 0)
+- Author: Zuzana Sokolová
+
 
 #### [Hate Speech Slovak](https://huggingface.co/datasets/TUKE-KEMT/hate_speech_slovak)
 
