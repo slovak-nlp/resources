@@ -115,15 +115,14 @@ A curated list of resources for the processing of Slovak language.
 - Citácia: GARABÍK, Radovan: Corpus of Slovak legislative documents. Jazykovedný časopis, 2022, Vol. 73, No 2, pp. 175-189.
 - 45 miliónov tokenov
   
-#### [Morphological vocabulary (old version)](https://korpus.sk/morphology_database.html)
 
+#### [Morphological vocabulary](https://korpus.sk/en/corpora-and-databases/databases/morphology-database/)
+
+* about 99,000 lemmas  Each lemma is provided with a full paradigm along with morphological tags representing grammatical information. 
+* The database currently holds about 1.1 million unique word forms, for a total of 3.2 million entries after homonyms are included.
 * form, lemma, POS+MSD (SNK)
 * source: SNK
 
-#### [Morphological vocabulary (web demo)](https://korpus.sk/morphology_database.html)
-
-* form, lemma, POS+MSD (SNK)
-* source: SNK
 #### [Slovak Dependency Treebank](https://lindat.cz/repository/xmlui/handle/11234/1-1822)
 
 * tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
