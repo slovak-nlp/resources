@@ -64,6 +64,11 @@ A curated list of resources for the processing of Slovak language.
 - Contains "unanswerable questions"
 - 92k items
 
+#### [Slovak Financial Exam](https://huggingface.co/datasets/TUKE-KEMT/slovak-financial-exam)
+
+- The dataset contains 1334 questions from the official financial advisor certification.
+- Each question has 5 possible answers, exactly one is correct.
+
 #### [Exam Slovak MathBio](https://huggingface.co/datasets/dokato/exam-slovak-mathbio)
 
 - Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
