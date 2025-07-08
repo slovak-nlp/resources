@@ -11,6 +11,7 @@ A curated list of resources for the processing of Slovak language.
 
 ## Corpora, datasets, vocabularies
 
+
 ### Web
 
 #### [FineWeb2](https://huggingface.co/datasets/ivykopal/fineweb2-slovak)
@@ -106,6 +107,21 @@ A curated list of resources for the processing of Slovak language.
 - Data obtained from FQA pages gathered from [Common Crawl](https://commoncrawl.org/)
 - Data also contains metadata, such as topic, question type
 
+### Vocabularies and Wordnet
+
+#### [Slovak Wordnet](https://korpus.sk/en/corpora-and-databases/databases/slovak-wordnet/)
+
+- a database of semantic relations. It describes semantic relations between the most frequent Slovak nouns, adjectives, verbs and adverbs following the general model of English WordNet. Slovak entries (synsets) are mapped to English synsets.
+- The database currently contains 25 000 synsets. It has been made available to give an insight into the data and processing technologies.
+
+Reference:
+
+Ondrej Dzurjuv, Ján Genči and Radovan Garabík: Generating Sets of Synonyms between Languages. In: Natural Language Processing, Multilinguality. Proceedings of the 6th International Conference SLOVKO 2011. Eds. D. Majchráková, R. Garabík. November 2011, Tribun, Brno.
+
+#### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
+
+* form, lemma, POS (Multext East)
+
 ### Morpho-syntactic
 
 #### [HamleDT](https://ufal.mff.cuni.cz/hamledt)
@@ -161,9 +177,6 @@ Reference:
 * source: Slovak UD, SNK
 
 
-#### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
-
-* form, lemma, POS (Multext East)
 
 ### Parallel
 
@@ -414,9 +427,6 @@ Reference:
 * corpus of spelling errors created from edits in Wikipedia
 * spelling errors are sorted into 5 categories,
 
-### Wordnet
-
-#### [Slovak Wordnet](https://korpus.sk/korpusy-a-databazy/databazy/wordnet/)
 
 ### Summarization
 
