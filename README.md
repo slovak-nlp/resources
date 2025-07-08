@@ -58,7 +58,6 @@ A curated list of resources for the processing of Slovak language.
 
 ### Question  Answering
 
-
 #### [SK QUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/skquad)
 
 - Manually annotated clone of SQUAD 2.0
@@ -106,6 +105,25 @@ A curated list of resources for the processing of Slovak language.
 - 178K question-answer pairs for the Slovak language
 - Data obtained from FQA pages gathered from [Common Crawl](https://commoncrawl.org/)
 - Data also contains metadata, such as topic, question type
+
+#### [Okapi MMLU](https://huggingface.co/datasets/jon-tow/okapi_mmlu)
+
+- Translated version of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset across 30 languages, including Slovak
+
+#### [Multilingual Hellaswag](https://huggingface.co/datasets/alexandrainst/m_hellaswag)
+
+- Translated version of the [HellaSwag](https://huggingface.co/datasets/Rowan/hellaswag) dataset across 35 languages, including Slovak
+- Translated using GPT-3.5-Turbo
+
+#### [Multilingual ARC](https://huggingface.co/datasets/alexandrainst/m_arc)
+
+- Translated version of the [ARC](https://huggingface.co/datasets/allenai/ai2_arc) dataset across 35 languages, including Slovak
+- Translated using GPT-3.5-Turbo
+
+#### [Multilingual TruthfulQA](https://huggingface.co/datasets/alexandrainst/m_truthfulqa)
+
+- Translated version of the [TruthfulQA](https://huggingface.co/datasets/truthfulqa/truthful_qa) dataset across 35 languages, including Slovak
+- Translated using GPT-3.5-Turbo
 
 ### Vocabularies and Wordnet
 
@@ -467,23 +485,3 @@ Reference:
 - 1K samples with 7 categories (science, geography, entertainment, politics, health, travel, sports)
 - Data obtained from the FLORES-200
 
-### Multilingual Benchmarks
-
-#### [Okapi MMLU](https://huggingface.co/datasets/jon-tow/okapi_mmlu)
-
-- Translated version of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset across 30 languages, including Slovak
-
-#### [Multilingual Hellaswag](https://huggingface.co/datasets/alexandrainst/m_hellaswag)
-
-- Translated version of the [HellaSwag](https://huggingface.co/datasets/Rowan/hellaswag) dataset across 35 languages, including Slovak
-- Translated using GPT-3.5-Turbo
-
-#### [Multilingual ARC](https://huggingface.co/datasets/alexandrainst/m_arc)
-
-- Translated version of the [ARC](https://huggingface.co/datasets/allenai/ai2_arc) dataset across 35 languages, including Slovak
-- Translated using GPT-3.5-Turbo
-
-#### [Multilingual TruthfulQA](https://huggingface.co/datasets/alexandrainst/m_truthfulqa)
-
-- Translated version of the [TruthfulQA](https://huggingface.co/datasets/truthfulqa/truthful_qa) dataset across 35 languages, including Slovak
-- Translated using GPT-3.5-Turbo
