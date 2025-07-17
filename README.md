@@ -377,6 +377,12 @@ Reference:
 - 4.2 M records for the Slovak language
 - Machine tanslated using the NLLB 3.3B model
 
+#### [CohereLabs/xP3x](https://huggingface.co/datasets/CohereLabs/xP3x)
+
+- xP3x (Crosslingual Public Pool of Prompts eXtended) is a collection of prompts & datasets across 277 languages & 16 NLP tasks
+- the Slovak Part has 5.5 mil rows.
+- https://arxiv.org/abs/2211.01786
+
 ### Named Entity Recognition
 
 
