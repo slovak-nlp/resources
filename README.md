@@ -5,9 +5,9 @@ A curated list of resources for the processing of Slovak language.
 
 ## Pages
 
- * [Slovak resources](https://github.com/essential-data/nlp-sk-interesting-links) by Essential Data
- * [Slovak speech and language processing ](https://nlp.kemt.fei.tuke.sk) at KEMT FEI TUKE with tools, demos and language resources.
- * [Slovak National Corpus](https://korpus.sk/)
+* [Slovak resources](https://github.com/essential-data/nlp-sk-interesting-links) by Essential Data
+* [Slovak speech and language processing ](https://nlp.kemt.fei.tuke.sk) at KEMT FEI TUKE with tools, demos and language resources.
+* [Slovak National Corpus](https://korpus.sk/)
 
 ## Corpora, datasets, vocabularies
 
@@ -23,8 +23,8 @@ A curated list of resources for the processing of Slovak language.
 #### [Multilingual C4](https://github.com/allenai/allennlp/discussions/5265)
 
 - Created for training [mT5 model](https://www.semanticscholar.org/paper/mT5%3A-A-Massively-Multilingual-Pre-trained-Xue-Constant/74276a37bfa50f90dfae37f767b2b67784bd402a).
-- Contains 67GB Slovak part. bv
-- Available in Tensorflow format and HuggingFace JSON format. 
+- Contains 67GB Slovak part.
+- Available in Tensorflow format and HuggingFace JSON format.
 - Can be downloaded from https://github.com/allenai/allennlp/discussions/5056 using git LFS.
 
 #### [Common Crawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/)
@@ -51,10 +51,11 @@ A curated list of resources for the processing of Slovak language.
 * twitter part
 
 #### [HPLT dataset(s)](https://hplt-project.org/datasets/v1.2)
-* web corpora
-* no annotation
-* no deduplication
-* lemmatized, POS+MSD+syntactically tagged, deduplicated corpus: https://www.juls.savba.sk/hpltskcorp.html
+
+- web corpora
+- no annotation
+- no deduplication
+- lemmatized, POS+MSD+syntactically tagged, deduplicated corpus: https://www.juls.savba.sk/hpltskcorp.html
 
 ### Question  Answering
 
@@ -125,11 +126,11 @@ A curated list of resources for the processing of Slovak language.
 - Translated version of the [TruthfulQA](https://huggingface.co/datasets/truthfulqa/truthful_qa) dataset across 35 languages, including Slovak
 - Translated using GPT-3.5-Turbo
 
-### Vocabularies and Wordnet
+### Vocabularies and WordNet
 
-#### [Slovak Wordnet](https://korpus.sk/en/corpora-and-databases/databases/slovak-wordnet/)
+#### [Slovak WordNet](https://korpus.sk/en/corpora-and-databases/databases/slovak-wordnet/)
 
-- a database of semantic relations. It describes semantic relations between the most frequent Slovak nouns, adjectives, verbs and adverbs following the general model of English WordNet. Slovak entries (synsets) are mapped to English synsets.
+- A database of semantic relations. It describes semantic relations between the most frequent Slovak nouns, adjectives, verbs and adverbs following the general model of English WordNet. Slovak entries (synsets) are mapped to English synsets.
 - The database currently contains 25 000 synsets. It has been made available to give an insight into the data and processing technologies.
 
 Reference:
@@ -138,14 +139,14 @@ Ondrej Dzurjuv, Ján Genči and Radovan Garabík: Generating Sets of Synonyms be
 
 #### [MULTEXT-East free lexicons 4.0](https://www.clarin.si/repository/xmlui/handle/11356/1041)
 
-* form, lemma, POS (Multext East)
+- form, lemma, POS (Multext East)
 
 ### Morpho-syntactic
 
 #### [HamleDT](https://ufal.mff.cuni.cz/hamledt)
 
--  HArmonized Multi-LanguagE Dependency Treebank
--  Integrates  42 treebanks
+- HArmonized Multi-LanguagE Dependency Treebank
+- Integrates 42 treebanks
 
 
 #### [Korpus právnych predpisov v slovenčine](https://www.juls.savba.sk/legalcorp.html)
@@ -153,21 +154,20 @@ Ondrej Dzurjuv, Ján Genči and Radovan Garabík: Generating Sets of Synonyms be
 - Korpus obsahuje texty právnych predpisov (aktuálnych aj minulých) v slovenčine. Okrem automatickej lematizácie a morfologickej anotácie je korpus anotovaný aj syntakticky
 - Citácia: GARABÍK, Radovan: Corpus of Slovak legislative documents. Jazykovedný časopis, 2022, Vol. 73, No 2, pp. 175-189.
 - 45 miliónov tokenov
-  
 
 #### [Morphological vocabulary](https://korpus.sk/en/corpora-and-databases/databases/morphology-database/)
 
-* about 99,000 lemmas  Each lemma is provided with a full paradigm along with morphological tags representing grammatical information. 
-* The database currently holds about 1.1 million unique word forms, for a total of 3.2 million entries after homonyms are included.
-* form, lemma, POS+MSD (SNK)
-* source: SNK
+- About 99,000 lemmas. Each lemma is provided with a full paradigm along with morphological tags representing grammatical information.
+- The database currently holds about 1.1 million unique word forms, for a total of 3.2 million entries after homonyms are included.
+- form, lemma, POS+MSD (SNK)
+- source: SNK
 
 #### [Slovak Dependency Treebank](https://lindat.cz/repository/xmlui/handle/11234/1-1822)
 
-* tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
-* manual annotation
-* format: conllu, PDT tagset
-* source: SNK
+- tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
+- manual annotation
+- format: conllu, PDT tagset
+- source: SNK
 
 Reference:
 
@@ -175,13 +175,13 @@ Reference:
 
 #### [Slovak Universal Dependencies](https://universaldependencies.org/treebanks/sk_snk/index.html)
 
-A conversion of the Slovak Dependency Treebank into Universal Dependency tagset. 
+A conversion of the Slovak Dependency Treebank into Universal Dependency tagset.
 
-* [GitHub page](https://github.com/UniversalDependencies/UD_Slovak-SNK)
-* tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
-* manual annotation
-* format: conllu, UD tagset
-* source: SNK
+- [GitHub page](https://github.com/UniversalDependencies/UD_Slovak-SNK)
+- tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
+- manual annotation
+- format: conllu, UD tagset
+- source: SNK
 
 Reference:
 
@@ -190,68 +190,66 @@ Reference:
 
 #### [Artificial Treebank with Ellipsis](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2616)
 
-* tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
-* format: conllu
-* source: Slovak UD, SNK
-
+- tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
+- format: conllu
+- source: Slovak UD, SNK
 
 
 ### Parallel
 
-
 #### [ŠarišSet](https://huggingface.co/datasets/kiviki/SarisSet)
 
 - Corpus of the Šariš dialect
-- 4.7k examples.
-- authors: Viktória Ondrejová and Marek Šuppa
+- 4.7k examples
+- Authors: Viktória Ondrejová and Marek Šuppa
 
 
 #### [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles-v2018.php)
 
 - 62 languages, 1,782 bitexts
-- Slovak part contains 100 mil. tokens
+- Slovak part contains 100 million tokens
 
 
 #### [VoxPopuli](https://github.com/facebookresearch/voxpopuli)
 
-* source: Europarl
-* speech, vectors, language
+- source: Europarl
+- speech, vectors, language
 
 
 #### [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0)
 
-* automatic POS (SNK)
-* source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
+- automatic POS (SNK)
+- source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
 
 #### [English-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A)
 
-* automatic POS (SNK)
-* source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
+- automatic POS (SNK)
+- source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
 
 #### [English-Slovak parallel corpus of texts from The Ministry of Justice of the Slovak Republic](https://hdl.handle.net/21.11129/0000-000D-F908-2)
 
-* Dataset of various English-Slovak legal texts within agenda of the Ministry,
-* plain text format alligned at the sentence level, the size: 112580 words.
-* It was converted into a 2895-TUs English-Slovak resource in TMX format.
+- Dataset of various English-Slovak legal texts within agenda of the Ministry
+- plain text format aligned at the sentence level, the size: 112580 words
+- It was converted into a 2895-TUs English-Slovak resource in TMX format
 
 #### [English-Slovak parallel corpus of texts from The Ministry of Culture of the Slovak Republic](https://data.europa.eu/data/datasets/elrc_329?locale=en)
 
-* Dataset of various English-Slovak legal texts within agenda of the Ministry,
-* plain text format alligned at the sentence level,
-* the size: 105791 words
-* It is converted into a 2609-TUs English-Slovak resource in TMX format.
+- Dataset of various English-Slovak legal texts within agenda of the Ministry
+- plain text format aligned at the sentence level
+- the size: 105791 words
+- It is converted into a 2609-TUs English-Slovak resource in TMX format
 
 
 #### [Paracrawl](https://www.paracrawl.eu/)
 
- * Parallel web Corpus with Slovak Part 
- * 3.3 mil sentences English-Slovak
+- Parallel web Corpus with Slovak Part
+- 3.3 million sentences English-Slovak
 
 #### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix)
 
- * Unsupervised processing of Wikipedia to obtain parallel corpora
- * Used LASER embeddings.
- * 85 different languages, 1620 language pairs, 134M parallel sentences, out of which 34M are aligned with English
+- Unsupervised processing of Wikipedia to obtain parallel corpora
+- Used LASER embeddings
+- 85 different languages, 1620 language pairs, 134M parallel sentences, out of which 34M are aligned with English
 
 ### Semantic textual similarity
 
@@ -262,8 +260,6 @@ Reference:
 - Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
 
 ### Sentiment
-
-
 
 #### [SentiSK](https://huggingface.co/datasets/TUKE-KEMT/senti-sk)
 
@@ -278,10 +274,10 @@ Reference:
 
 #### [The Nuclear News V4 Dataset](https://huggingface.co/datasets/eoplumbum/v4_nuclear_power_articles)
 
--  is a multilingual dataset consisting of 33,104 unique news articles
-- sourced from 12 online news platforms across the Visegrád Group (V4) countries — Poland, Czech Republic, Slovakia, and Hungary — published between 1998 and 2025. The goal of the dataset is to analyze media narratives surrounding nuclear energy in Central Europe.
+- A multilingual dataset consisting of 33,104 unique news articles
+- Sourced from 12 online news platforms across the Visegrád Group (V4) countries — Poland, Czech Republic, Slovakia, and Hungary — published between 1998 and 2025. The goal of the dataset is to analyze media narratives surrounding nuclear energy in Central Europe.
 - 30 percent in Slovak
-- annotated by language modes for overall sentiment toward nuclear energy, sentiment of the headline (pessimistic ↔ optimistic), degree of sensationalism / alarmism in the headline
+- Annotated by language modes for overall sentiment toward nuclear energy, sentiment of the headline (pessimistic ↔ optimistic), degree of sensationalism / alarmism in the headline
 
 
 #### [Sentiment Analysis Data for the Slovak Language](https://huggingface.co/datasets/DGurgurov/slovak_sa)
@@ -297,18 +293,18 @@ Reference:
 
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
 
-* source: Twitter
-* 3 categories - positive, negative, neutral
+- source: Twitter
+- 3 categories - positive, negative, neutral
 
 #### [SentiGrade](https://sentigrade.fiit.stuba.sk/data)
 
-* Dataset contains totally 1 588 comments in Slovak language from various Facebook pages. The texts are annotated by 5 categories.
+- Dataset contains totally 1 588 comments in Slovak language from various Facebook pages. The texts are annotated by 5 categories.
 
 #### [STS2-sk](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews)
 
 - Machine translated
-- Sentiment analysis dataset, binary classification task: positive sentiment, negative sentiment.  It includes reviews from 7 categories with positive, neutral and negative sentiment labels. 
-- Source: [Slovakbert auxiliary repository](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) BY Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik. , 2021
+- Sentiment analysis dataset, binary classification task: positive sentiment, negative sentiment. It includes reviews from 7 categories with positive, neutral and negative sentiment labels.
+- Source: [Slovakbert auxiliary repository](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) by Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik, 2021
 - Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
 
 #### [sk csfd movie reviews](https://huggingface.co/datasets/fewshot-goes-multilingual/sk_csfd-movie-reviews)
@@ -385,14 +381,12 @@ Reference:
 
 ### Named Entity Recognition
 
-
-
 #### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
 
-* Manually annotated set
-* Diploma thesis at Commeius University
-* PER, ORG, LOC, MISC annotations
-* cca 7k sentences.
+- Manually annotated set
+- Diploma thesis at Commeius University
+- PER, ORG, LOC, MISC annotations
+- cca 7k sentences
 
 #### [Universal NER (UNER) Slovak SNK](https://github.com/UniversalNER/UNER_Slovak-SNK)
 
@@ -409,9 +403,9 @@ Reference:
 
 #### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
 
-* A Large Multilingual Dataset for Entity Linking
-* Slovak part has 41.0M tokens and 1366.4k entities
-* named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART,MANUFACTURED
+- A Large Multilingual Dataset for Entity Linking
+- Slovak part has 41.0M tokens and 1366.4k entities
+- named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED)
 
 #### [Polyglot NER](https://huggingface.co/datasets/polyglot_ner)
 
@@ -422,16 +416,14 @@ Reference:
 
 #### [WikiANN](https://huggingface.co/datasets/unimelb-nlp/wikiann)
 
-* [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178)
-* annotation extracted from wikipedia links.
-* Slovak part has 40k sentences
- 
+- [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178)
+- annotation extracted from wikipedia links
+- Slovak part has 40k sentences
 
 #### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
- translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
+- Translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate)
 
- 
 #### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
 
 - CNEC 2.0 Czech model machine translated to Slovak & filtered
@@ -439,17 +431,12 @@ Reference:
 - source: JÚĽŠ SAV
 
 
-#### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
-
- translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate
-
-
 ### Spelling
 
 #### [CHIBI](https://www.juls.savba.sk/errcorp.html)
 
-* corpus of spelling errors created from edits in Wikipedia
-* spelling errors are sorted into 5 categories,
+- Corpus of spelling errors created from edits in Wikipedia
+- spelling errors are sorted into 5 categories
 
 
 ### Summarization
@@ -466,9 +453,8 @@ Reference:
 
 #### [Slovak Gigaword](https://huggingface.co/datasets/Plasmoxy/gigatrue-slovak)
 
-
 - Synthetic [Gigaword](https://huggingface.co/datasets/Harvard/gigaword) dataset translated to Slovak using [SeamlessM4T-v2](https://huggingface.co/docs/transformers/en/model_doc/seamless_m4t_v2).
-- 3.78 mil. summaries
+- 3.78 million summaries
 - Same as https://huggingface.co/datasets/Plasmoxy/gigatrue but translated to Slovak.
 
 #### [FMI_Summarization](https://huggingface.co/datasets/FMISummarization/FMI_Summarization)
@@ -490,4 +476,3 @@ Reference:
 - Topic classification dataset consisting of 205 languages
 - 1K samples with 7 categories (science, geography, entertainment, politics, health, travel, sports)
 - Data obtained from the FLORES-200
-
