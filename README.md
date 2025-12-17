@@ -27,7 +27,14 @@ A curated list of resources for the processing of Slovak language.
 - Available in Tensorflow format and HuggingFace JSON format.
 - Can be downloaded from https://github.com/allenai/allennlp/discussions/5056 using git LFS.
 
-#### [Common Crawl](https://commoncrawl.org/2020/03/february-2020-crawl-archive-now-available/)
+#### [Common Crawl](https://commoncrawl.org/)
+
+- Open repository of web crawl data
+- Monthly crawls containing petabytes of data
+- Raw web page data, extracted metadata and text extractions
+- Data available in multiple formats (WARC, WAT, WET)
+- Can be accessed via AWS S3 or other cloud providers
+- Includes Slovak language web pages
 
 #### [SkTenTen](https://www.sketchengine.eu/sktenten-slovak-corpus/)
 
