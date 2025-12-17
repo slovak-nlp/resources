@@ -72,34 +72,43 @@ A curated list of resources for the processing of Slovak language.
 - Contains "unanswerable questions"
 - 92k items
 
+Reference: D. Hládek, J. Staš, J. Juhár and T. Koctúr, "Slovak Dataset for Multilingual Question Answering," in IEEE Access, vol. 11, pp. 32869-32881, 2023, doi: [10.1109/ACCESS.2023.3262308](https://doi.org/10.1109/ACCESS.2023.3262308)
+
 #### [Slovak Financial Exam](https://huggingface.co/datasets/TUKE-KEMT/slovak-financial-exam)
 
-- The dataset contains 1334 questions from the official financial advisor certification.
-- Each question has 5 possible answers, exactly one is correct.
+- The dataset contains 1334 questions from the official financial advisor certification
+- Each question has 5 possible answers, exactly one is correct
 
 #### [Exam Slovak MathBio](https://huggingface.co/datasets/dokato/exam-slovak-mathbio)
 
 - Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
-- 131 manually created math questions. One choice of 4 is correct.
+- 131 manually created math questions. One choice of 4 is correct
+
+Reference: Koto, F. et al., "INCLUDE: Evaluating Multilingual Language Understanding with Regional Knowledge," arXiv preprint arXiv:2411.19799, 2024
 
 #### [Slovak SQUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/squad-sk)
 
 - Machine translation of SQUAD 2.0 Database
 - 140k annotated items
 
+Reference: Based on Rajpurkar, P., Jia, R., & Liang, P., "Know What You Don't Know: Unanswerable Questions for SQuAD," in Proceedings of ACL, 2018
+
 #### [qa2d-sk](https://huggingface.co/datasets/ctu-aic/qa2d-sk)
 
-- Slovak version of the Question to Declarative Sentence (QA2D).
-- Machine-translated using DeepL service.
-- https://arxiv.org/abs/2312.10171
+- Slovak version of the Question to Declarative Sentence (QA2D)
+- Machine-translated using DeepL service
 - 70k questions and answers
+
+Reference: J. Drchal, H. Ullrich, T. Mlynář, and V. Moravec, "Pipeline and Dataset Generation for Automated Fact-checking in Almost Any Language," Neural Computing and Applications, vol. 36, pp. 19347–19366, 2024, doi: [10.1007/s00521-024-10113-5](https://doi.org/10.1007/s00521-024-10113-5)
 
 #### [Slovak BoolQ](https://huggingface.co/datasets/crabz/boolq_sk)
 
 - 5 000 yes-no questions
-- Each example is a triplet of (question, passage, answer), with the title of the page as optional additional context.
+- Each example is a triplet of (question, passage, answer), with the title of the page as optional additional context
 - Machine translated
 - Can be used also for summarization
+
+Reference: Based on C. Clark, K. Lee, M.-W. Chang, T. Kwiatkowski, M. Collins, and K. Toutanova, "BoolQ: Exploring the Surprising Difficulty of Natural Yes/No Questions," in Proceedings of NAACL-HLT, 2019, pp. 2924–2936
 
 #### [MQA](https://huggingface.co/datasets/clips/mqa)
 
@@ -108,30 +117,42 @@ A curated list of resources for the processing of Slovak language.
 - Data are parsed from [Common Crawl](https://commoncrawl.org/)
 - Questions are divided into: frequently asked questions (FAQ) and Community Question Answering (CQA)
 
+Reference: F. Segonne, V. Caucheteux, and M. Seddah, "MQA: Answering the Question via Robustness Modeling in Multilingual Question Answering," in Proceedings of EMNLP, 2023
+
 #### [WebFAQ](https://huggingface.co/datasets/PaDaS-Lab/webfaq)
 
 - 178K question-answer pairs for the Slovak language
-- Data obtained from FQA pages gathered from [Common Crawl](https://commoncrawl.org/)
+- Data obtained from FAQ pages gathered from [Common Crawl](https://commoncrawl.org/)
 - Data also contains metadata, such as topic, question type
+
+Reference: S. Longpre, Y. Lu, and J. Daiber, "MKQA: A Linguistically Diverse Benchmark for Multilingual Open Domain Question Answering," Transactions of the ACL, vol. 9, pp. 1389–1406, 2021
 
 #### [Okapi MMLU](https://huggingface.co/datasets/jon-tow/okapi_mmlu)
 
 - Translated version of the [MMLU](https://huggingface.co/datasets/cais/mmlu) dataset across 30 languages, including Slovak
+
+Reference: Based on D. Hendrycks, C. Burns, S. Basart, A. Zou, M. Mazeika, D. Song, and J. Steinhardt, "Measuring Massive Multitask Language Understanding," in Proceedings of ICLR, 2021
 
 #### [Multilingual Hellaswag](https://huggingface.co/datasets/alexandrainst/m_hellaswag)
 
 - Translated version of the [HellaSwag](https://huggingface.co/datasets/Rowan/hellaswag) dataset across 35 languages, including Slovak
 - Translated using GPT-3.5-Turbo
 
+Reference: Based on R. Zellers, A. Holtzman, Y. Bisk, A. Farhadi, and Y. Choi, "HellaSwag: Can a Machine Really Finish Your Sentence?" in Proceedings of ACL, 2019, pp. 4791–4800
+
 #### [Multilingual ARC](https://huggingface.co/datasets/alexandrainst/m_arc)
 
 - Translated version of the [ARC](https://huggingface.co/datasets/allenai/ai2_arc) dataset across 35 languages, including Slovak
 - Translated using GPT-3.5-Turbo
 
+Reference: Based on P. Clark, I. Cowhey, O. Etzioni, T. Khot, A. Sabharwal, C. Schoenick, and O. Tafjord, "Think you have Solved Question Answering? Try ARC, the AI2 Reasoning Challenge," arXiv preprint arXiv:1803.05457, 2018
+
 #### [Multilingual TruthfulQA](https://huggingface.co/datasets/alexandrainst/m_truthfulqa)
 
 - Translated version of the [TruthfulQA](https://huggingface.co/datasets/truthfulqa/truthful_qa) dataset across 35 languages, including Slovak
 - Translated using GPT-3.5-Turbo
+
+Reference: Based on S. Lin, J. Hilton, and O. Evans, "TruthfulQA: Measuring How Models Mimic Human Falsehoods," in Proceedings of ACL, 2022, pp. 3214–3252
 
 ### Vocabularies and WordNet
 
