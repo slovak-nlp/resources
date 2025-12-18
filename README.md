@@ -20,12 +20,16 @@ A curated list of resources for the processing of Slovak language.
 - 14.1 billion words across more than 26.5 million documents.
 - sourced from 96 CommonCrawl snapshots, spanning the summer of 2013 to April 2024, and processed using datatrove,
 
+Reference: Penedo, G., et al. (2024). "The FineWeb Datasets: Decanting the Web for the Finest Text Data at Scale," arXiv preprint arXiv:2406.17557. https://arxiv.org/abs/2406.17557
+
 #### [Multilingual C4](https://github.com/allenai/allennlp/discussions/5265)
 
 - Created for training [mT5 model](https://www.semanticscholar.org/paper/mT5%3A-A-Massively-Multilingual-Pre-trained-Xue-Constant/74276a37bfa50f90dfae37f767b2b67784bd402a).
 - Contains 67GB Slovak part.
 - Available in Tensorflow format and HuggingFace JSON format.
 - Can be downloaded from https://github.com/allenai/allennlp/discussions/5056 using git LFS.
+
+Reference: Xue, L., et al. (2021). "mT5: A Massively Multilingual Pre-trained Text-to-Text Transformer," In Proceedings of NAACL 2021, pp. 483-498. https://aclanthology.org/2021.naacl-main.41/
 
 #### [Common Crawl](https://commoncrawl.org/)
 
@@ -36,26 +40,34 @@ A curated list of resources for the processing of Slovak language.
 - Can be accessed via AWS S3 or other cloud providers
 - Includes Slovak language web pages
 
+
 #### [SkTenTen](https://www.sketchengine.eu/sktenten-slovak-corpus/)
 
 * automatic POS (SNK)
 * source: web
 * can be downloaded from [Clarin](https://lindat.cz/repository/xmlui/handle/11858/00-097C-0000-0001-CCDB-0?show=full)
 
+Reference: Jakubíček, M., Kilgarriff, A., Kovář, V., Rychlý, P., & Suchomel, V. (2013). "The TenTen Corpus Family," In 7th International Corpus Linguistics Conference CL 2013, pp. 125-127. https://www.sketchengine.eu/wp-content/uploads/The_TenTen_Corpus_2013.pdf
+
 #### [Oscar](https://oscar-corpus.com)
 
 * deduplicated
 * source: Common Crawl
+
+Reference: Abadji, J., et al. (2022). "Towards a Cleaner Document-Oriented Multilingual Crawled Corpus," In Proceedings of LREC 2022, pp. 4344-4355. https://aclanthology.org/2022.lrec-1.463/
 
 #### [Aranea](http://ucts.uniba.sk/aranea_about/)
 
 * automatic lemmatization, MSD, POS ([AUT](http://ucts.uniba.sk/aranea_about/aut.html), ensemble lemmatization+POS)
 * source: web
 
+Reference: Benko, V. (2014). "Aranea: Yet Another Family of (Comparable) Web Corpora," In Text, Speech and Dialogue, pp. 257-264. Springer. https://doi.org/10.1007/978-3-319-10816-2_31
+
 #### [HC Corpora](http://corpora.epizy.com/corpora.html)
 
 * no annotattion
 * twitter part
+
 
 #### [HPLT dataset(s)](https://hplt-project.org/datasets/v1.2)
 
@@ -63,6 +75,7 @@ A curated list of resources for the processing of Slovak language.
 - no annotation
 - no deduplication
 - lemmatized, POS+MSD+syntactically tagged, deduplicated corpus: https://www.juls.savba.sk/hpltskcorp.html
+
 
 ### Question  Answering
 
