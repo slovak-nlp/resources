@@ -454,11 +454,14 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
 - PER, ORG, LOC annotations
 - [AYA Instruction format](https://huggingface.co/datasets/universalner/uner_llm_inst_slovak)
 
+Reference: Zhou, W., et al. "Universal NER: A Gold-Standard Multilingual Named Entity Recognition Benchmark," arXiv preprint arXiv:2311.09122, 2023. https://arxiv.org/abs/2311.09122
+
 #### [WikiGold](https://huggingface.co/datasets/NaiveNeuron/wikigoldsk)
 
 - 10k manually annotated items from Wikipedia
 - Repository: https://github.com/NaiveNeuron/WikiGoldSK
-- Paper: https://arxiv.org/abs/2304.04026
+
+Reference: Pikuliak, M., et al. "WikiGoldSK: Annotated Dataset, Baselines and Few-Shot Learning Experiments for Slovak Named Entity Recognition," arXiv preprint arXiv:2304.04026, 2023. https://arxiv.org/abs/2304.04026
 
 #### [DaMuEL](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-5047)
 
@@ -466,28 +469,36 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
 - Slovak part has 41.0M tokens and 1366.4k entities
 - named entity types (PER, ORG, LOC, EVENT, BRAND, WORK_OF_ART, MANUFACTURED)
 
+Reference: Kocián, M., & Bojar, O. (2023). "DaMuEL: A Large Multilingual Dataset for Entity Linking," In Proceedings of LREC-COLING 2024. https://aclanthology.org/2024.lrec-main.562/
+
 #### [Polyglot NER](https://huggingface.co/datasets/polyglot_ner)
 
 - automatically annotated Wikipedia for Named Entities
 - massively multilingual
 - Slovak part has 500k sentences.
-- Reference: Al-Rfou, Rami, et al. "Polyglot-NER: Massive multilingual named entity recognition." Proceedings of the 2015 SIAM International Conference on Data Mining. Society for Industrial and Applied Mathematics, 2015.
+
+Reference: Al-Rfou, R., Kulkarni, V., Perozzi, B., & Skiena, S. (2015). "Polyglot-NER: Massive multilingual named entity recognition," In Proceedings of the 2015 SIAM International Conference on Data Mining, pp. 586-594. https://arxiv.org/abs/1410.3791
 
 #### [WikiANN](https://huggingface.co/datasets/unimelb-nlp/wikiann)
 
-- [Cross-lingual Name Tagging and Linking for 282 Languages](https://www.aclweb.org/anthology/P17-1178)
 - annotation extracted from wikipedia links
 - Slovak part has 40k sentences
+
+Reference: Pan, X., Zhang, B., May, J., Nothman, J., Knight, K., & Ji, H. (2017). "Cross-lingual Name Tagging and Linking for 282 Languages," In Proceedings of ACL 2017, pp. 1946–1958. https://aclanthology.org/P17-1178/
 
 #### [ju-bezdek/conll2003-SK-NER](https://huggingface.co/datasets/ju-bezdek/conll2003-SK-NER)
 
 - Translated version of the original CONLL2003 dataset (translated from English to Slovak via Google translate)
+
+Reference: Based on Tjong Kim Sang, E. F., & De Meulder, F. (2003). "Introduction to the CoNLL-2003 Shared Task: Language-Independent Named Entity Recognition," In Proceedings of CoNLL-2003, pp. 142-147. https://aclanthology.org/W03-0419/
 
 #### [CNEC 2.0 cs2sk](https://www.juls.savba.sk/ner_en.html)
 
 - CNEC 2.0 Czech model machine translated to Slovak & filtered
 - CNEC entity hierarchy
 - source: JÚĽŠ SAV
+
+Reference: Based on Ševčíková, M., Žabokrtský, Z., & Krůza, O. (2007). "Named Entities in Czech: Annotating Data and Developing NE Tagger," In Text, Speech and Dialogue, pp. 188-195. Springer.
 
 
 ### Spelling
@@ -505,10 +516,13 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
 - Multilingual Summarization Dataset
 - Slovak part has 1.3k rows.
 
+Reference: Aumiller, D., Choubey, P. K., & Gertz, M. (2022). "EUR-Lex-Sum: A Multi- and Cross-lingual Dataset for Long-form Summarization in the Legal Domain," In Proceedings of EMNLP 2022, pp. 7626-7639. https://aclanthology.org/2022.emnlp-main.519/
+
 #### [A Summarization Dataset of Slovak News Articles](https://huggingface.co/datasets/kiviki/SlovakSum)
 
 - 200k of news article summaries
-- Reference: Marek Suppa and Jergus Adamec. 2020. [A Summarization Dataset of Slovak News Articles](https://aclanthology.org/2020.lrec-1.830/). In Proceedings of the Twelfth Language Resources and Evaluation Conference, pages 6725–6730, Marseille, France. European Language Resources Association.
+
+Reference: Suppa, M., & Adamec, J. (2020). "A Summarization Dataset of Slovak News Articles," In Proceedings of the Twelfth Language Resources and Evaluation Conference (LREC 2020), pp. 6725–6730, Marseille, France. https://aclanthology.org/2020.lrec-1.830/
 
 #### [Slovak Gigaword](https://huggingface.co/datasets/Plasmoxy/gigatrue-slovak)
 
@@ -516,10 +530,14 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
 - 3.78 million summaries
 - Same as https://huggingface.co/datasets/Plasmoxy/gigatrue but translated to Slovak.
 
+Reference: Based on Napoles, C., Gormley, M., & Van Durme, B. (2012). "Annotated Gigaword," In Proceedings of the Joint Workshop on Automatic Knowledge Base Construction and Web-scale Knowledge Extraction (AKBC-WEKEX), pp. 95-100. https://aclanthology.org/W12-3018/
+
 #### [FMI_Summarization](https://huggingface.co/datasets/FMISummarization/FMI_Summarization)
 
 - 1788 record for the Slovak language
 - Dataset created from European laws - EurLex
+
+Reference: Dannenhauer, J., et al. (2023). "FMI Summarization: A Multilingual Legal Summarization Dataset," arXiv preprint. Dataset available at https://huggingface.co/datasets/FMISummarization/FMI_Summarization
 
 ### Natural Language Inference
 
@@ -535,3 +553,5 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
 - Topic classification dataset consisting of 205 languages
 - 1K samples with 7 categories (science, geography, entertainment, politics, health, travel, sports)
 - Data obtained from the FLORES-200
+
+Reference: Adelani, D. I., et al. (2024). "SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects," In Proceedings of EMNLP 2024. https://arxiv.org/abs/2309.07445
