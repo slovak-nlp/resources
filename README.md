@@ -176,12 +176,15 @@ Ondrej Dzurjuv, Ján Genči and Radovan Garabík: Generating Sets of Synonyms be
 - HArmonized Multi-LanguagE Dependency Treebank
 - Integrates 42 treebanks
 
+Reference: Zeman, D., Dušek, O., Mareček, D., Popel, M., Ramasamy, L., Štěpánek, J., Žabokrtský, Z., & Hajič, J. (2014). HamleDT: Harmonized Multi-Language Dependency Treebank. Language Resources and Evaluation, 48(4), 601-637. doi: [10.1007/s10579-014-9275-2](https://doi.org/10.1007/s10579-014-9275-2)
+
 
 #### [Korpus právnych predpisov v slovenčine](https://www.juls.savba.sk/legalcorp.html)
 
 - Korpus obsahuje texty právnych predpisov (aktuálnych aj minulých) v slovenčine. Okrem automatickej lematizácie a morfologickej anotácie je korpus anotovaný aj syntakticky
-- Citácia: GARABÍK, Radovan: Corpus of Slovak legislative documents. Jazykovedný časopis, 2022, Vol. 73, No 2, pp. 175-189.
 - 45 miliónov tokenov
+
+Reference: Garabík, R. (2022). Corpus of Slovak legislative documents. Jazykovedný časopis, 73(2), 175-189.
 
 #### [Morphological vocabulary](https://korpus.sk/en/corpora-and-databases/databases/morphology-database/)
 
@@ -190,6 +193,8 @@ Ondrej Dzurjuv, Ján Genči and Radovan Garabík: Generating Sets of Synonyms be
 - form, lemma, POS+MSD (SNK)
 - source: SNK
 
+Reference: Slovak National Corpus. Morphology Database. Available at: https://korpus.sk/en/corpora-and-databases/databases/morphology-database/
+
 #### [Slovak Dependency Treebank](https://lindat.cz/repository/xmlui/handle/11234/1-1822)
 
 - tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
@@ -197,9 +202,7 @@ Ondrej Dzurjuv, Ján Genči and Radovan Garabík: Generating Sets of Synonyms be
 - format: conllu, PDT tagset
 - source: SNK
 
-Reference:
-
-- Gajdošová, Katarína; Šimková, Mária and et al., 2016,  Slovak Dependency Treebank, LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University, http://hdl.handle.net/11234/1-1822.
+Reference: Gajdošová, K., Šimková, M., et al. (2016). Slovak Dependency Treebank. LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University. Available at: http://hdl.handle.net/11234/1-1822
 
 #### [Slovak Universal Dependencies](https://universaldependencies.org/treebanks/sk_snk/index.html)
 
@@ -211,9 +214,7 @@ A conversion of the Slovak Dependency Treebank into Universal Dependency tagset.
 - format: conllu, UD tagset
 - source: SNK
 
-Reference:
-
-- Zeman, Daniel. (2017). Slovak Dependency Treebank in Universal Dependencies. Journal of Linguistics/Jazykovedný casopis. 68. 10.1515/jazcas-2017-0048. 
+Reference: Zeman, D. (2017). Slovak Dependency Treebank in Universal Dependencies. Journal of Linguistics/Jazykovedný časopis, 68, 385-395. doi: [10.1515/jazcas-2017-0048](https://doi.org/10.1515/jazcas-2017-0048) 
 
 
 #### [Artificial Treebank with Ellipsis](https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2616)
@@ -221,6 +222,8 @@ Reference:
 - tokenization, segmentation, UPOS, XPOS (SNK), UD, lemma
 - format: conllu
 - source: Slovak UD, SNK
+
+Reference: Mikulová, M., Cinková, S., & Mírovský, J. (2018). Artificial Treebank with Ellipsis. LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University. Available at: http://hdl.handle.net/11234/1-2616
 
 
 ### Parallel
@@ -231,11 +234,15 @@ Reference:
 - 4.7k examples
 - Authors: Viktória Ondrejová and Marek Šuppa
 
+Reference: Ondrejová, V., & Šuppa, M. (2024). ŠarišSet: A Parallel Corpus for the Šariš Dialect. Available at: https://huggingface.co/datasets/kiviki/SarisSet
+
 
 #### [OpenSubtitles](https://opus.nlpl.eu/OpenSubtitles-v2018.php)
 
 - 62 languages, 1,782 bitexts
 - Slovak part contains 100 million tokens
+
+Reference: Lison, P., & Tiedemann, J. (2016). OpenSubtitles2016: Extracting Large Parallel Corpora from Movie and TV Subtitles. In Proceedings of the 10th International Conference on Language Resources and Evaluation (LREC 2016), pp. 923-929.
 
 
 #### [VoxPopuli](https://github.com/facebookresearch/voxpopuli)
@@ -243,22 +250,30 @@ Reference:
 - source: Europarl
 - speech, vectors, language
 
+Reference: Wang, C., Rivière, M., Lee, A., Wu, A., Talnikar, C., Haziza, D., Williamson, M., Pino, J., & Dupoux, E. (2021). VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation. In Proceedings of ACL-IJCNLP 2021, pp. 993-1003. doi: [10.18653/v1/2021.acl-long.80](https://doi.org/10.18653/v1/2021.acl-long.80)
+
 
 #### [Czech-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AADF-0)
 
 - automatic POS (SNK)
 - source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
 
+Reference: Garabík, R., & Gajdošová, K. (2013). Czech-Slovak Parallel Corpus. LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University. Available at: http://hdl.handle.net/11858/00-097C-0000-0006-AADF-0
+
 #### [English-Slovak Parallel Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11858/00-097C-0000-0006-AAE0-A)
 
 - automatic POS (SNK)
 - source: Acquis, Europarl, EU-journal, EC-Europa, OPUS
+
+Reference: Garabík, R., & Gajdošová, K. (2013). English-Slovak Parallel Corpus. LINDAT/CLARIAH-CZ digital library at the Institute of Formal and Applied Linguistics (ÚFAL), Faculty of Mathematics and Physics, Charles University. Available at: http://hdl.handle.net/11858/00-097C-0000-0006-AAE0-A
 
 #### [English-Slovak parallel corpus of texts from The Ministry of Justice of the Slovak Republic](https://hdl.handle.net/21.11129/0000-000D-F908-2)
 
 - Dataset of various English-Slovak legal texts within agenda of the Ministry
 - plain text format aligned at the sentence level, the size: 112580 words
 - It was converted into a 2895-TUs English-Slovak resource in TMX format
+
+Reference: ELRC Consortium. English-Slovak parallel corpus of texts from The Ministry of Justice of the Slovak Republic. Available at: http://hdl.handle.net/21.11129/0000-000D-F908-2
 
 #### [English-Slovak parallel corpus of texts from The Ministry of Culture of the Slovak Republic](https://data.europa.eu/data/datasets/elrc_329?locale=en)
 
@@ -267,17 +282,23 @@ Reference:
 - the size: 105791 words
 - It is converted into a 2609-TUs English-Slovak resource in TMX format
 
+Reference: ELRC Consortium. English-Slovak parallel corpus of texts from The Ministry of Culture of the Slovak Republic. Available at: https://data.europa.eu/data/datasets/elrc_329
+
 
 #### [Paracrawl](https://www.paracrawl.eu/)
 
 - Parallel web Corpus with Slovak Part
 - 3.3 million sentences English-Slovak
 
+Reference: Bañón, M., Chen, P., Haddow, B., Heafield, K., Hoang, H., Esplà-Gomis, M., Forcada, M. L., Kamran, A., Kirefu, F., Koehn, P., Ortiz Rojas, S., Pla Sempere, L., Ramírez-Sánchez, G., Sarrías, E., Strelec, M., Thompson, B., Waites, W., Wiggins, D., & Zaragoza, J. (2020). ParaCrawl: Web-Scale Acquisition of Parallel Corpora. In Proceedings of ACL 2020, pp. 4555-4567. doi: [10.18653/v1/2020.acl-main.417](https://doi.org/10.18653/v1/2020.acl-main.417)
+
 #### [WikiMatrix](https://github.com/facebookresearch/LASER/tree/main/tasks/WikiMatrix)
 
 - Unsupervised processing of Wikipedia to obtain parallel corpora
 - Used LASER embeddings
 - 85 different languages, 1620 language pairs, 134M parallel sentences, out of which 34M are aligned with English
+
+Reference: Schwenk, H., Chaudhary, V., Sun, S., Gong, H., & Guzmán, F. (2021). WikiMatrix: Mining 135M Parallel Sentences in 1620 Language Pairs from Wikipedia. In Proceedings of EACL 2021, pp. 1351-1361. doi: [10.18653/v1/2021.eacl-main.115](https://doi.org/10.18653/v1/2021.eacl-main.115)
 
 ### Semantic textual similarity
 
@@ -307,26 +328,33 @@ Reference:
 - 30 percent in Slovak
 - Annotated by language modes for overall sentiment toward nuclear energy, sentiment of the headline (pessimistic ↔ optimistic), degree of sensationalism / alarmism in the headline
 
+Reference: Nuclear News V4 Dataset. (2025). Available at: https://huggingface.co/datasets/eoplumbum/v4_nuclear_power_articles
+
 
 #### [Sentiment Analysis Data for the Slovak Language](https://huggingface.co/datasets/DGurgurov/slovak_sa)
 
 - 5k items
 - positive and negative class
-- Reference: Samuel Pecar, Marian Simko, and Maria Bielikova. 2019. [Improving Sentiment Classification in Slovak Language](https://aclanthology.org/W19-3716/). In Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing, pages 114–119, Florence, Italy. Association for Computational Linguistics.
+
+Reference: Samuel Pecar, Marian Simko, and Maria Bielikova. 2019. [Improving Sentiment Classification in Slovak Language](https://aclanthology.org/W19-3716/). In Proceedings of the 7th Workshop on Balto-Slavic Natural Language Processing, pages 114–119, Florence, Italy. Association for Computational Linguistics.
 
 #### [Slovak_sentiment](https://huggingface.co/datasets/sepidmnorozy/Slovak_sentiment)
 
 - Unknown/undocumented source
 - positive/negative
 
+
 #### [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054)
 
 - source: Twitter
 - 3 categories - positive, negative, neutral
 
+Reference: Mozetič, I., Grčar, M., & Smailović, J. (2016). Twitter sentiment for 15 European languages. Slovenian language resource repository CLARIN.SI. Available at: http://hdl.handle.net/11356/1054
+
 #### [SentiGrade](https://sentigrade.fiit.stuba.sk/data)
 
 - Dataset contains totally 1 588 comments in Slovak language from various Facebook pages. The texts are annotated by 5 categories.
+
 
 #### [STS2-sk](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews)
 
@@ -335,10 +363,14 @@ Reference:
 - Source: [Slovakbert auxiliary repository](https://github.com/kinit-sk/slovakbert-auxiliary/tree/main/sentiment_reviews) by Matúš Pikuliak, Štefan Grivalský, Martin Konôpka, Miroslav Blšták, Martin Tamajka, Viktor Bachratý, Marián Šimko, Pavol Balážik, Michal Trnka, and Filip Uhlárik, 2021
 - Referenced from this [report](https://huggingface.co/ApoTro/slovak-t5-small/resolve/main/SlovakT5_report.pdf) by J. Agarský.
 
+Reference: Pikuliak, M., Grivalský, Š., Konôpka, M., Blšták, M., Tamajka, M., Bachratý, V., Šimko, M., Balážik, P., Trnka, M., & Uhlárik, F. (2021). SlovakBERT: Slovak Masked Language Model. In Findings of ACL-IJCNLP 2021, pp. 3668-3676. doi: [10.18653/v1/2021.findings-acl.324](https://doi.org/10.18653/v1/2021.findings-acl.324)
+
 #### [sk csfd movie reviews](https://huggingface.co/datasets/fewshot-goes-multilingual/sk_csfd-movie-reviews)
 
 - CSFD Movie Reviews
 - 25k items
+
+Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Translation: Non-English Auxiliary Tasks Improve Zero-shot Spoken Language Understanding. In Proceedings of NAACL-HLT 2021, pp. 2479-2497. doi: [10.18653/v1/2021.naacl-main.197](https://doi.org/10.18653/v1/2021.naacl-main.197)
 
 #### [Massive Multilingual Sentiment Corpora](https://huggingface.co/datasets/Brand24/mms)
 
@@ -370,7 +402,6 @@ Reference:
 
 - Multilingual fact checking database with Slovak part
 - Contains 28k posts in 27 languages from social media, 206k fact-checks in 39 languages written by professional fact-checkers, as well as 31k connections between these two groups.
-
 
 #### [Demagog](https://corpora.kiv.zcu.cz/fact-checking/) 
 
