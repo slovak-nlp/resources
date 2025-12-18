@@ -92,6 +92,8 @@ Reference: D. Hládek, J. Staš, J. Juhár and T. Koctúr, "Slovak Dataset for M
 - The dataset contains 1334 questions from the official financial advisor certification
 - Each question has 5 possible answers, exactly one is correct
 
+Reference: Hládek D, Kristián S, Ján S, Zuzana S, Matúš P. Financial Question-answering Dataset for Slovak Language Model Evaluation. Jazykovedný Časopis. 2025;76(1):247-57.
+
 #### [Exam Slovak MathBio](https://huggingface.co/datasets/dokato/exam-slovak-mathbio)
 
 - Part of [INCLUDE](https://arxiv.org/abs/2411.19799)
@@ -333,6 +335,7 @@ Reference: Schwenk, H., Chaudhary, V., Sun, S., Gong, H., & Guzmán, F. (2021). 
     * 3 779 comments labeled as "positive"
 - Author: Zuzana Sokolová
 
+Reference: Zuzana, Sokolová, Harahus Maroš, Daniel Hládek, and Staš Ján. "Annotated Slovak Datasets for Toxicity, Hate Speech, and Sentiment Analysis." Jazykovedny Casopis 76, no. 1 (2025): 279-289.
 
 #### [The Nuclear News V4 Dataset](https://huggingface.co/datasets/eoplumbum/v4_nuclear_power_articles)
 
@@ -401,6 +404,7 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
     * 4 420 comments labeled as "non-toxic" (value 0)
 - Author: Zuzana Sokolová
 
+Reference: Zuzana, Sokolová, Harahus Maroš, Daniel Hládek, and Staš Ján. "Annotated Slovak Datasets for Toxicity, Hate Speech, and Sentiment Analysis." Jazykovedny Casopis 76, no. 1 (2025): 279-289.
 
 #### [Hate Speech Slovak](https://huggingface.co/datasets/TUKE-KEMT/hate_speech_slovak)
 
@@ -408,6 +412,7 @@ Reference: van der Goot, R., et al. (2021). From Masked Language Modeling to Tra
 - Crowdsourced hate and offensive speech in Facebook comments
 - binary classification
 
+Reference: Zuzana, Sokolová, Harahus Maroš, Daniel Hládek, and Staš Ján. "Annotated Slovak Datasets for Toxicity, Hate Speech, and Sentiment Analysis." Jazykovedny Casopis 76, no. 1 (2025): 279-289.
 
 ### Fact Checking
 
