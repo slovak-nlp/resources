@@ -69,12 +69,10 @@ Reference: Benko, V. (2014). "Aranea: Yet Another Family of (Comparable) Web Cor
 * twitter part
 
 
-#### [HPLT dataset(s)](https://hplt-project.org/datasets/v1.2)
+#### [HPLT dataset(s)](https://hplt-project.org/datasets/v4.0)
 
-- web corpora
-- no annotation
-- no deduplication
-- lemmatized, POS+MSD+syntactically tagged, deduplicated corpus: https://www.juls.savba.sk/hpltskcorp.html
+- 21B tokens, 116.85 GB for v3 corpus
+- [Statistics for the Slovak part](https://analytics.hplt-project.org/viewer/HPLT-v3-slk_Latn.yaml)
 
 
 ### Question  Answering
