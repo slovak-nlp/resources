@@ -297,9 +297,9 @@ Reference: ELRC Consortium. English-Slovak parallel corpus of texts from The Min
 
 Reference: ELRC Consortium. English-Slovak parallel corpus of texts from The Ministry of Culture of the Slovak Republic. Available at: https://data.europa.eu/data/datasets/elrc_329
 
-#### [HPLT Project Parallel Corpora](https://opus.nlpl.eu/MultiHPLT/corpus/version/MultiHPLT)
+#### [MultiHPLT v3](https://opus.nlpl.eu/MultiHPLT/corpus/version/MultiHPLT)
 
-- 32,237,055 segments, 704M tokens, 3.45 GB characters
+- The Slovak part has: 32,237,055 segments, 704M tokens, 3.45 GB characters
 - [Statistics of the Slovak part](https://analytics.hplt-project.org/viewer/HPLT-v3-eng_Latn-slk_Latn.yaml)
 
 #### [Paracrawl](https://www.paracrawl.eu/)
