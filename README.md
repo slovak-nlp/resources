@@ -458,6 +458,12 @@ Reference: Zuzana, Sokolová, Harahus Maroš, Daniel Hládek, and Staš Ján. "A
 - the Slovak Part has 5.5 mil rows.
 - https://arxiv.org/abs/2211.01786
 
+#### [Trojsten Benchmark](https://github.com/gardenerik/trojsten-benchmark/tree/master)
+
+- Collection of Slovak mathematical problems and solutions
+- a Slovak-language dataset of 1,108 high-school competition problems with reference solutions across mathematics, physics, and programming,
+- Source: Trojsten competition
+
 ### Named Entity Recognition
 
 #### [Contextualized Language Model-based Named Entity Recognition in Slovak Texts](https://github.com/vidosuba/slovak-NER)
