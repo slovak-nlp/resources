@@ -590,3 +590,8 @@ Reference: Dannenhauer, J., et al. (2023). "FMI Summarization: A Multilingual Le
 - Data obtained from the FLORES-200
 
 Reference: Adelani, D. I., et al. (2024). "SIB-200: A Simple, Inclusive, and Big Evaluation Dataset for Topic Classification in 200+ Languages and Dialects," In Proceedings of EMNLP 2024. https://arxiv.org/abs/2309.07445
+
+#### [Pravda.sk URL-based Clustering Dataset](https://huggingface.co/datasets/NaiveNeuron/pravda-sk-url-clustering)
+
+- This dataset contains 15,000 Slovak news articles categorized by their URL structure. Articles are organized into 50 categories across 11 subdomains, providing a hierarchical classification based on editorial decisions.
+
