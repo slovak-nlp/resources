@@ -565,6 +565,10 @@ Reference: Based on Napoles, C., Gormley, M., & Van Durme, B. (2012). "Annotated
 
 Reference: Dannenhauer, J., et al. (2023). "FMI Summarization: A Multilingual Legal Summarization Dataset," arXiv preprint. Dataset available at https://huggingface.co/datasets/FMISummarization/FMI_Summarization
 
+### [SlovKE](https://huggingface.co/datasets/NaiveNeuron/SlovKE)
+
+- 318k abstracts of concluding theses
+
 ### Natural Language Inference
 
 #### [ANLI_SK](https://huggingface.co/datasets/ivykopal/anli_sk)
