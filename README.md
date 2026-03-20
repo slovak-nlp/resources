@@ -425,7 +425,12 @@ Reference: Zuzana, Sokolová, Harahus Maroš, Daniel Hládek, and Staš Ján. "A
 
 #### [Demagog](https://corpora.kiv.zcu.cz/fact-checking/) 
 
-9.1k Czech, 2.8k Polish and 12.6k Slovak labeled claims with reasoning: demagog.zip (~16.5 MB)
+- 9.1k Czech, 2.8k Polish and 12.6k Slovak labeled claims with reasoning: demagog.zip (~16.5 MB)
+
+#### [DemagogSK](https://huggingface.co/datasets/NaiveNeuron/DemagogSK)
+
+- Demagog.sk Vyroky is a collection of fact-checked political statements scraped from Demagog.sk. Each record contains the original claim, the speaker, the fact-check verdict, and the supporting analysis written by the Demagog.sk editorial team.
+- 20k Slovak fact checks
 
 #### [qacg-sk](https://huggingface.co/datasets/ctu-aic/qacg-sk)
 
