@@ -595,3 +595,11 @@ Reference: Adelani, D. I., et al. (2024). "SIB-200: A Simple, Inclusive, and Big
 
 - This dataset contains 15,000 Slovak news articles categorized by their URL structure. Articles are organized into 50 categories across 11 subdomains, providing a hierarchical classification based on editorial decisions.
 
+#### [SlovKE](https://huggingface.co/datasets/NaiveNeuron/SlovKE)
+
+- 227,432 Slovak scientific abstracts with author-assigned keyphrases scraped from the Slovak Central Register of Theses
+- Benchmarked with unsupervised baselines (YAKE, TextRank, KeyBERT with SlovakBERT) and KeyLLM (GPT-3.5-turbo)
+- Evaluation code available at https://github.com/NaiveNeuron/SlovKE
+
+Reference: Šuppa, M., et al. (2026). "Keyphrase Extraction for Slovak: A Large-Scale Dataset and Benchmarking Study," In Proceedings of LREC 2026. https://arxiv.org/abs/2603.15523
+
