@@ -15,6 +15,7 @@
 
 #### [JÚĽŠ word embeddings](https://www.juls.savba.sk/data/semä/)
 
+* Web-based  Visualisation of Slovak word vectors
 * word form, POS+lemma, fasstext embeddings
 * source: JÚĽŠ + SNK (prim), also from older prim-* corpora
 * description: https://www.juls.savba.sk/semä.html
@@ -220,10 +221,6 @@ Slovak T5 small, created by fine-tuning mT5 small.
 * implementation in Java/DL4J
 * source codes available
 * license: GNU AGPLv3
-
-#### [Semä](https://www.juls.savba.sk/semä)
-
-* Web-based  Visualisation of Slovak word vectors
 
 #### [Simplemma](https://pypi.org/project/simplemma/)
 
