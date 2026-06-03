@@ -15,6 +15,7 @@
 
 #### [JÚĽŠ word embeddings](https://www.juls.savba.sk/data/semä/)
 
+* Web-based  Visualisation of Slovak word vectors
 * word form, POS+lemma, fasstext embeddings
 * source: JÚĽŠ + SNK (prim), also from older prim-* corpora
 * description: https://www.juls.savba.sk/semä.html
@@ -52,6 +53,14 @@
 
 - is a Slovak language version of the Mistral-7B-v0.1 large language model with 7 billion parameters.
 - obtained by full parameter finetuning of the Mistral-7B-v0.1 large language model with the data from the Araneum Slovacum VII Maximum web corpus.
+
+#### [Qwen-14B-sk](https://www.juls.savba.sk/qwenSK_en.html)
+
+* Slovak language version of the Qwen3 large language model with 14 billion parameters.
+* obtained by full parameter finetuning of Qwen3-14B by data from:
+  * Araneum Slovacum VII Maximum corpus
+  * Slovník slovenského jazyka (Š. Peciar)
+  * Encyclopaedia Beliana
 
 ### [Slovak T5 Base](https://huggingface.co/TUKE-KEMT/slovak-t5-base)
 
@@ -158,6 +167,10 @@ Slovak T5 small, created by fine-tuning mT5 small.
 * form, lemma, POS+MSD
 * source: JÚĽŠ SAV
 
+#### [Lemmatization, Morphological analysis, disambiguation (tagging), docker image](https://hub.docker.com/r/julssav/sk_morpho)
+
+* form, lemma, POS+MSD
+* source: JÚĽŠ SAV
 
 #### [Slovak Hunspell](https://github.com/sk-spell/hunspell-sk)
 
@@ -216,10 +229,6 @@ Slovak T5 small, created by fine-tuning mT5 small.
 * implementation in Java/DL4J
 * source codes available
 * license: GNU AGPLv3
-
-#### [Semä](https://www.juls.savba.sk/semä)
-
-* Web-based  Visualisation of Slovak word vectors
 
 #### [Simplemma](https://pypi.org/project/simplemma/)
 

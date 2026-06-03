@@ -61,7 +61,24 @@ Reference: Abadji, J., et al. (2022). "Towards a Cleaner Document-Oriented Multi
 * automatic lemmatization, MSD, POS ([AUT](http://ucts.uniba.sk/aranea_about/aut.html), ensemble lemmatization+POS)
 * source: web
 
-Reference: Benko, V. (2014). "Aranea: Yet Another Family of (Comparable) Web Corpora," In Text, Speech and Dialogue, pp. 257-264. Springer. https://doi.org/10.1007/978-3-319-10816-2_31
+Reference: BENKO, Vladimír. The Aranea Corpora Family: Ten+ Years of Processing Web-Crawled Data. In Lecture Notes in Computer Science : Text, Speech, and Dialogue. Proceedings, Part 1. - Heidelberg : Springer, 2024, vol. 15048, pp. 55-70.
+
+#### [HPLT web corpus (2.0)](https://www.juls.savba.sk/hpltskcorp.html)
+
+* filtered, lemmatized and MSD tagged web corpus based on HPLT dataset
+* 5B tokens
+
+#### [Web corpus ARANEUM + HPLT + FineWeb2](https://www.juls.savba.sk/webskahfcorp.html)
+
+* unified, filtered, deduplicated, lemmatized and MSD tagged web corpus based on ARANEA, HPLT and FineWeb2 datasets
+* 10B tokens
+
+#### [Corpus of Court Decisions](https://www.juls.savba.sk/justicecorp.html)
+
+* court decisions of Slovak courts
+* anonymized
+* lemmatized, MSD tagged, syntactically parsed
+* 12B tokens
 
 #### [HC Corpora](http://corpora.epizy.com/corpora.html)
 
@@ -534,7 +551,7 @@ Reference: Based on Ševčíková, M., Žabokrtský, Z., & Krůza, O. (2007). "N
 
 ### Spelling
 
-#### [CHIBI](https://www.juls.savba.sk/errcorp.html)
+#### [CHIBY](https://www.juls.savba.sk/errcorp.html)
 
 - Corpus of spelling errors created from edits in Wikipedia
 - spelling errors are sorted into 5 categories
