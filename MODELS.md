@@ -54,6 +54,14 @@
 - is a Slovak language version of the Mistral-7B-v0.1 large language model with 7 billion parameters.
 - obtained by full parameter finetuning of the Mistral-7B-v0.1 large language model with the data from the Araneum Slovacum VII Maximum web corpus.
 
+#### [Qwen-14B-sk](https://www.juls.savba.sk/qwenSK_en.html)
+
+* Slovak language version of the Qwen3 large language model with 14 billion parameters.
+* obtained by full parameter finetuning of Qwen3-14B by data from:
+  * Araneum Slovacum VII Maximum corpus
+  * Slovník slovenského jazyka (Š. Peciar)
+  * Encyclopaedia Beliana
+
 ### [Slovak T5 Base](https://huggingface.co/TUKE-KEMT/slovak-t5-base)
 
 - Monolingual Slovak T5 model with 300 million parameters
