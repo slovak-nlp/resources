@@ -551,7 +551,7 @@ Reference: Based on Ševčíková, M., Žabokrtský, Z., & Krůza, O. (2007). "N
 
 ### Spelling
 
-#### [CHIBI](https://www.juls.savba.sk/errcorp.html)
+#### [CHIBY](https://www.juls.savba.sk/errcorp.html)
 
 - Corpus of spelling errors created from edits in Wikipedia
 - spelling errors are sorted into 5 categories
