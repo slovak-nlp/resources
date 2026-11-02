@@ -92,6 +92,15 @@ Reference: BENKO, Vladimír. The Aranea Corpora Family: Ten+ Years of Processing
 - [Statistics for the Slovak part](https://analytics.hplt-project.org/viewer/HPLT-v3-slk_Latn.yaml)
 
 
+### Speech
+
+#### [TrePal](https://huggingface.co/datasets/streams-sro/trepal)
+
+- Slovak parliament speech with transcripts for speech recognition (ASR)
+- 471.5 hours, 140,420 clips from 190 members of the National Council of the Slovak Republic (November 2024 to September 2026)
+- aligned to the official National Council records
+- license: CC BY 4.0
+
 ### Question  Answering
 
 #### [SK QUAD](https://huggingface.co/datasets/TUKE-DeutscheTelekom/skquad)
