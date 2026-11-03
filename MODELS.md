@@ -85,6 +85,11 @@ Slovak T5 small, created by fine-tuning mT5 small.
 - VoxPopuli: A Large-Scale Multilingual Speech Corpus for Representation Learning, Semi-Supervised Learning and Interpretation
 - Facebook's Wav2Vec2 base model pretrained on the 10K unlabeled subset of VoxPopuli corpus and fine-tuned on the transcribed data in sk
 
+#### [Whisper large-v3 SK](https://huggingface.co/kinit/whisper-large-v3-sk)
+
+- OpenAI Whisper large-v3 fine-tuned for Slovak speech recognition by KInIT
+- license: Apache 2.0
+
 #### [m-BERT](https://github.com/google-research/bert/blob/master/multilingual.md)
 
 * multilingual BERT, trained on Wikipedia
